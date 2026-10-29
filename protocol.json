@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "development_pair_end_years": [
+    2019,
+    2020,
+    2021
+  ],
+  "held_pair_end_years": [
+    2022,
+    2023,
+    2024
+  ],
+  "fleets": [
+    "coal",
+    "natural_gas",
+    "pooled"
+  ],
+  "coal_codes": [
+    "ANT",
+    "BIT",
+    "LIG",
+    "SUB",
+    "RC",
+    "WC"
+  ],
+  "natural_gas_codes": [
+    "NG"
+  ],
+  "chp": "Exclude CHP and unknown status; retain only explicit non-CHP records.",
+  "geography": "50 US states and District of Columbia; not territories",
+  "grain": [
+    "plant_fuel",
+    "plant_technology_fuel"
+  ],
+  "combined_cycle_codes": [
+    "CA",
+    "CT",
+    "CS"
+  ],
+  "cohorts": [
+    "pair_common",
+    "balanced_2018_2024"
+  ],
+  "primary": {
+    "grain": "plant_fuel",
+    "cohort": "pair_common"
+  },
+  "cases": 72,
+  "development_cases": 36,
+  "held_cases": 36,
+  "precision_digits": 60,
+  "independent_precision_digits": 80,
+  "absolute_numeric_tolerance": "1e-45",
+  "heat_rate_units": "MMBtu per MWh",
+  "selection": "No fitting, tuning or stochastic computation; all fixed cases retained.",
+  "seed": null
+}

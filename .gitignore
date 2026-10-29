@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+private/
+data/raw/
+data/cache/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/main.pdf
+paper/*.xdv
