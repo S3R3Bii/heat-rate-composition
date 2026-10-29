@@ -1,7 +1,5 @@
 # Reported heat rate and fleet composition
 
-**Current state: fixed protocol; source and numerical execution pending.**
+**Incomplete: the fixed source-key/CHP-consistency gate failed before analysis.** Independent inspection confirms one plant/prime-mover/fuel/year key tagged both CHP and non-CHP in the2018 source. Record non-overlap is unestablished. No numerical decomposition or completed study is claimed.
 
-An aggregate fuel-per-generation ratio can change when individual reporting cells change or when their generation shares change. This historical EIA-923 comparison will distinguish those arithmetic components and the remainder outside matched cohorts. It has not established operational improvement, engineering efficiency, savings or a current-year result.
-
-The next step is per-year source/schema reconciliation. Read the [protocol](PROTOCOL.md), [constants](protocol.json) and [sources and rights](SOURCES.md). All planned cases and influence checks will be retained. Independent program work; formal-publication projects remain private.
+Read the [source hold](SOURCE_HOLD.md), [failure receipt](results/SOURCE_FAILURE.json) and [fixed protocol](PROTOCOL.md). Original source archives remain private. Formal-publication projects, including Azure, remain private.

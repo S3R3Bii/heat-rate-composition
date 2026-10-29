@@ -1,0 +1,37 @@
+{
+  "timestamp_utc": "2026-10-29T20:19:42.326648+00:00",
+  "study_id": "25",
+  "status": "INCOMPLETE_SOURCE_KEY_AND_CHP_GATE",
+  "released": false,
+  "source_version": "EIA-923 final historical 2018-2024 snapshots",
+  "failed_year": 2018,
+  "key": {
+    "plant": 56668,
+    "prime_mover": "GT",
+    "reported_fuel": "NG"
+  },
+  "rows": [
+    {
+      "source_row": 8895,
+      "chp": "Y",
+      "sector": 5
+    },
+    {
+      "source_row": 8896,
+      "chp": "N",
+      "sector": 4
+    }
+  ],
+  "archive_sha256": "44e6447730d755fb5d41d6c0c91e34ae0b9fab9f8b4c17559627bdad1e030007",
+  "independent_check": "Independent openpyxl workbook reader confirms the same plant/prime-mover/fuel/year key with opposing CHP classifications. Fuel/generation values were not printed or analytically summarized.",
+  "source_gate": "FAIL: predeclared unique source key and internally consistent plant-year CHP classification",
+  "analysis_started": false,
+  "source_projection_published": false,
+  "next_step": "Obtain authoritative EIA interpretation or a corrected source snapshot that resolves overlapping CHP/non-CHP reporting under the fixed source gate. A different reporting-cell study needs a separately labeled prospective redesign; do not infer that these records are disjoint or silently weaken the gate.",
+  "budget": {
+    "rounds_used": 1,
+    "review_tool_calls_upper_count": 12,
+    "elapsed_wall_including_execution": "Protocol/source-readiness began about20:13UTC; no model or held decomposition was run; workload proxies are not quota or billing."
+  },
+  "grade": null
+}
