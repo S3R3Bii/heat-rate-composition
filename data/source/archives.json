@@ -1,0 +1,72 @@
+[
+  {
+    "year": 2018,
+    "url": "https://www.eia.gov/electricity/data/eia923/archive/xls/f923_2018.zip",
+    "status": 200,
+    "bytes": 21305966,
+    "sha256": "44e6447730d755fb5d41d6c0c91e34ae0b9fab9f8b4c17559627bdad1e030007",
+    "original_write_utc": "2026-10-29T20:15:55.041191+00:00",
+    "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2018_Final_Revision.xlsx",
+    "selected_sheet": "Page 1 Generation and Fuel Data"
+  },
+  {
+    "year": 2019,
+    "url": "https://www.eia.gov/electricity/data/eia923/archive/xls/f923_2019.zip",
+    "status": 200,
+    "bytes": 21885522,
+    "sha256": "c2fd692e7994dda8e7b04645c3cac4881c471003d417d8419da20ba015be7cce",
+    "original_write_utc": "2026-10-29T20:15:55.746885+00:00",
+    "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2019_Final_Revision.xlsx",
+    "selected_sheet": "Page 1 Generation and Fuel Data"
+  },
+  {
+    "year": 2020,
+    "url": "https://www.eia.gov/electricity/data/eia923/archive/xls/f923_2020.zip",
+    "status": 200,
+    "bytes": 21465660,
+    "sha256": "b8c6516cc0ae306abffc03a4af393de496d52b84b41347521f7acb184a4f7bf9",
+    "original_write_utc": "2026-10-29T20:15:55.145340+00:00",
+    "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2020_Final_Revision.xlsx",
+    "selected_sheet": "Page 1 Generation and Fuel Data"
+  },
+  {
+    "year": 2021,
+    "url": "https://www.eia.gov/electricity/data/eia923/archive/xls/f923_2021.zip",
+    "status": 200,
+    "bytes": 22281584,
+    "sha256": "9db69876593a669a0a02aa67ea3abaebf7dc0ea961424912c75156432851ccd8",
+    "original_write_utc": "2026-10-29T20:15:55.945459+00:00",
+    "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2021_Final_Revision.xlsx",
+    "selected_sheet": "Page 1 Generation and Fuel Data"
+  },
+  {
+    "year": 2022,
+    "url": "https://www.eia.gov/electricity/data/eia923/archive/xls/f923_2022.zip",
+    "status": 200,
+    "bytes": 22871857,
+    "sha256": "2f030b7da3802b9310ecd93ef98014890d3519e6d1db55e5a49173121e5e82e4",
+    "original_write_utc": "2026-10-29T20:16:17.348779+00:00",
+    "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2022_Final_Revision.xlsx",
+    "selected_sheet": "Page 1 Generation and Fuel Data"
+  },
+  {
+    "year": 2023,
+    "url": "https://www.eia.gov/electricity/data/eia923/archive/xls/f923_2023.zip",
+    "status": 200,
+    "bytes": 22359936,
+    "sha256": "f96326c003bcdc0534144718c96fa8c31f803190e92b936b97d210db27acc557",
+    "original_write_utc": "2026-10-29T20:16:18.129257+00:00",
+    "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2023_Final_Revision.xlsx",
+    "selected_sheet": "Page 1 Generation and Fuel Data"
+  },
+  {
+    "year": 2024,
+    "url": "https://www.eia.gov/electricity/data/eia923/archive/xls/f923_2024.zip",
+    "status": 200,
+    "bytes": 22755334,
+    "sha256": "272055f2d748f6486fc3076abd5a40ec736dbff45458bdb4c895761278c50f2b",
+    "original_write_utc": "2026-10-29T20:16:18.172267+00:00",
+    "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2024_Final.xlsx",
+    "selected_sheet": "Page 1 Generation and Fuel Data"
+  }
+]
