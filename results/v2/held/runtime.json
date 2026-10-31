@@ -1,0 +1,150 @@
+{
+  "python": "3.10.11",
+  "per_case": [
+    {
+      "case_id": "2021-2022__coal__plant_fuel__pair_common",
+      "elapsed_seconds": 0.006114099989645183
+    },
+    {
+      "case_id": "2021-2022__coal__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.004668899928219616
+    },
+    {
+      "case_id": "2021-2022__coal__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.005263300030492246
+    },
+    {
+      "case_id": "2021-2022__coal__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.00553530000615865
+    },
+    {
+      "case_id": "2021-2022__natural_gas__plant_fuel__pair_common",
+      "elapsed_seconds": 0.03398810001090169
+    },
+    {
+      "case_id": "2021-2022__natural_gas__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.022780400002375245
+    },
+    {
+      "case_id": "2021-2022__natural_gas__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.02899959997739643
+    },
+    {
+      "case_id": "2021-2022__natural_gas__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.024951200000941753
+    },
+    {
+      "case_id": "2021-2022__pooled__plant_fuel__pair_common",
+      "elapsed_seconds": 0.0379410000750795
+    },
+    {
+      "case_id": "2021-2022__pooled__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.02642140001989901
+    },
+    {
+      "case_id": "2021-2022__pooled__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.03222489997278899
+    },
+    {
+      "case_id": "2021-2022__pooled__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.02821720007341355
+    },
+    {
+      "case_id": "2022-2023__coal__plant_fuel__pair_common",
+      "elapsed_seconds": 0.005551400012336671
+    },
+    {
+      "case_id": "2022-2023__coal__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.004534000065177679
+    },
+    {
+      "case_id": "2022-2023__coal__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.004907700000330806
+    },
+    {
+      "case_id": "2022-2023__coal__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.00468640006147325
+    },
+    {
+      "case_id": "2022-2023__natural_gas__plant_fuel__pair_common",
+      "elapsed_seconds": 0.03475669992621988
+    },
+    {
+      "case_id": "2022-2023__natural_gas__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.023034799960441887
+    },
+    {
+      "case_id": "2022-2023__natural_gas__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.03038439992815256
+    },
+    {
+      "case_id": "2022-2023__natural_gas__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.025513599975965917
+    },
+    {
+      "case_id": "2022-2023__pooled__plant_fuel__pair_common",
+      "elapsed_seconds": 0.03940489992965013
+    },
+    {
+      "case_id": "2022-2023__pooled__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.026580900070257485
+    },
+    {
+      "case_id": "2022-2023__pooled__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.03384120005648583
+    },
+    {
+      "case_id": "2022-2023__pooled__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.028550000046379864
+    },
+    {
+      "case_id": "2023-2024__coal__plant_fuel__pair_common",
+      "elapsed_seconds": 0.005473800003528595
+    },
+    {
+      "case_id": "2023-2024__coal__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.004508100100792944
+    },
+    {
+      "case_id": "2023-2024__coal__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.004903100081719458
+    },
+    {
+      "case_id": "2023-2024__coal__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.004877700004726648
+    },
+    {
+      "case_id": "2023-2024__natural_gas__plant_fuel__pair_common",
+      "elapsed_seconds": 0.035824199905619025
+    },
+    {
+      "case_id": "2023-2024__natural_gas__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.023457300034351647
+    },
+    {
+      "case_id": "2023-2024__natural_gas__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.030814100056886673
+    },
+    {
+      "case_id": "2023-2024__natural_gas__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.02494880009908229
+    },
+    {
+      "case_id": "2023-2024__pooled__plant_fuel__pair_common",
+      "elapsed_seconds": 0.03870090004056692
+    },
+    {
+      "case_id": "2023-2024__pooled__plant_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.026324099977500737
+    },
+    {
+      "case_id": "2023-2024__pooled__plant_technology_fuel__pair_common",
+      "elapsed_seconds": 0.03312439995352179
+    },
+    {
+      "case_id": "2023-2024__pooled__plant_technology_fuel__balanced_2018_2024",
+      "elapsed_seconds": 0.028078300063498318
+    }
+  ],
+  "scope": "Measured local execution; variable replay timing, not a production performance benchmark"
+}
