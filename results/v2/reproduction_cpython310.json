@@ -1,0 +1,26 @@
+{
+  "status": "PASS_ANALYSIS_ONLY_REPLAY",
+  "python": "3.10.11",
+  "exact_fields": 615290,
+  "numeric_fields": 818646,
+  "independently_bounded_as_run_diagnostics": 2,
+  "maximum_difference_fraction_of_declared_tolerance": "0",
+  "phase_conditions": {
+    "development": 658242,
+    "held": 682050
+  },
+  "source_files_unchanged": 3,
+  "source_sha256": {
+    "data/v2/source_cells.csv.gz": "64cf7e4ba1dcc693b1ce907d4850a8f6c0a0b82743c627f92d2d4dd4a36828fc",
+    "data/v2/source_manifest.json": "83f06312c4d06b837906ccd2d7b4268c6e0ffedff75c439ccc3793ad5f6ad2f7",
+    "data/v2/group_ledger.json.gz": "c414df817e1234b51d1d57d70c40bacff560a89ea2dd930ad324dbbfdfeb073c"
+  },
+  "source_requests": 0,
+  "full_history_repository": true,
+  "fixtures": 22,
+  "authored_cases": 3,
+  "source": "Selected public EIA facts; complete private original workbooks separately reconciled and hash-bound",
+  "original_v1_gate": "FAILED_UNCHANGED",
+  "analysis_revision": "25e290a55b7e37d4cba8c76744d6d782f642326a",
+  "isolated_full_history_clone": true
+}

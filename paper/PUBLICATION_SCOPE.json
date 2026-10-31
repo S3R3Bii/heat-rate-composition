@@ -1,0 +1,12 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "authority": "James authorized reviewed independent program manuscripts on project repositories; formal-publication projects remain private.",
+  "public_files": {
+    "paper/main.tex": "000326c2bb1e99366e1fe5708d3bf5ad6a55033c231481a318efe2c15396b4fd",
+    "paper/manuscript.pdf": "688aec453d06040a48a96592b5add3ea134d97a08b75c52a73ba88eeee241b1a",
+    "paper/images/full_case_sensitivity.pdf": "4da675b291ff2fecdb9533b01ee421313a6feec535a19508cc52a542b8155793",
+    "paper/images/latest_reported_bridge.pdf": "8ef46c3723ffb84a51dcba72b3efb7f6488fc511aa66c93d550ad7735e048947",
+    "paper/images/plant_influence_ranges.pdf": "646106e24607702b41d8ddc48416754d60c77e7334c8147590b7ef344cbfe0bf"
+  }
+}
