@@ -1,0 +1,5994 @@
+{
+  "status": "V2_PROJECTION_PENDING_INDEPENDENT_NATIVE_CHECK",
+  "source": "EIA-923 final historical annual workbooks, exact retained2018\u20132024 archives",
+  "years": [
+    {
+      "year": 2018,
+      "archive_sha256": "44e6447730d755fb5d41d6c0c91e34ae0b9fab9f8b4c17559627bdad1e030007",
+      "workbook_sha256": "1d873be87a085d44d48c495e4563f6aa6de7e96466c31798e197e84dce467724",
+      "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2018_Final_Revision.xlsx",
+      "columns": {
+        "plant": "A",
+        "chp": "B",
+        "state": "G",
+        "prime_mover": "N",
+        "fuel": "O",
+        "nuclear_unit": "C",
+        "elec_mmbtu": "CQ",
+        "net_mwh": "CR",
+        "year": "CS"
+      },
+      "identity_counts": {
+        "native_xml_rows": 13959,
+        "valid_identity_rows": 13959,
+        "selected_fuel_rows_before_quarantine": 4107
+      }
+    },
+    {
+      "year": 2019,
+      "archive_sha256": "c2fd692e7994dda8e7b04645c3cac4881c471003d417d8419da20ba015be7cce",
+      "workbook_sha256": "8a7144dd5389335c11b07760e7ad53482ebb5097a418c2ef01bbedc914e17075",
+      "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2019_Final_Revision.xlsx",
+      "columns": {
+        "plant": "A",
+        "chp": "B",
+        "state": "G",
+        "prime_mover": "N",
+        "fuel": "O",
+        "nuclear_unit": "C",
+        "elec_mmbtu": "CQ",
+        "net_mwh": "CR",
+        "year": "CS"
+      },
+      "identity_counts": {
+        "native_xml_rows": 14517,
+        "valid_identity_rows": 14517,
+        "selected_fuel_rows_before_quarantine": 4097
+      }
+    },
+    {
+      "year": 2020,
+      "archive_sha256": "b8c6516cc0ae306abffc03a4af393de496d52b84b41347521f7acb184a4f7bf9",
+      "workbook_sha256": "0e5afa8f0c38124017b01688a8a7e0583a0d04785b90c65c848f70dbaf102e44",
+      "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2020_Final_Revision.xlsx",
+      "columns": {
+        "plant": "A",
+        "chp": "B",
+        "state": "G",
+        "prime_mover": "N",
+        "fuel": "O",
+        "nuclear_unit": "C",
+        "elec_mmbtu": "CQ",
+        "net_mwh": "CR",
+        "year": "CS"
+      },
+      "identity_counts": {
+        "native_xml_rows": 15115,
+        "valid_identity_rows": 15115,
+        "selected_fuel_rows_before_quarantine": 4052
+      }
+    },
+    {
+      "year": 2021,
+      "archive_sha256": "9db69876593a669a0a02aa67ea3abaebf7dc0ea961424912c75156432851ccd8",
+      "workbook_sha256": "8bf9004e2ee8606f1b726e374b7d10025e0fcaac294a3a14f3cbc448cc054e71",
+      "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2021_Final_Revision.xlsx",
+      "columns": {
+        "plant": "A",
+        "chp": "B",
+        "state": "G",
+        "prime_mover": "N",
+        "fuel": "O",
+        "nuclear_unit": "C",
+        "elec_mmbtu": "CQ",
+        "net_mwh": "CR",
+        "year": "CS"
+      },
+      "identity_counts": {
+        "native_xml_rows": 15796,
+        "valid_identity_rows": 15796,
+        "selected_fuel_rows_before_quarantine": 4098
+      }
+    },
+    {
+      "year": 2022,
+      "archive_sha256": "2f030b7da3802b9310ecd93ef98014890d3519e6d1db55e5a49173121e5e82e4",
+      "workbook_sha256": "6d41d56652dcae5267b6e5653e29c84526755ecf81f921b5baced0bd7d842d60",
+      "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2022_Final_Revision.xlsx",
+      "columns": {
+        "plant": "A",
+        "chp": "B",
+        "state": "G",
+        "prime_mover": "N",
+        "fuel": "O",
+        "nuclear_unit": "C",
+        "elec_mmbtu": "CQ",
+        "net_mwh": "CR",
+        "year": "CS"
+      },
+      "identity_counts": {
+        "native_xml_rows": 16453,
+        "valid_identity_rows": 16453,
+        "selected_fuel_rows_before_quarantine": 4102
+      }
+    },
+    {
+      "year": 2023,
+      "archive_sha256": "f96326c003bcdc0534144718c96fa8c31f803190e92b936b97d210db27acc557",
+      "workbook_sha256": "cec9a4b5c380d461026354d0dca8cc317a44231486b770cba1bb126743b7d526",
+      "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2023_Final_Revision.xlsx",
+      "columns": {
+        "plant": "A",
+        "chp": "B",
+        "state": "G",
+        "prime_mover": "N",
+        "fuel": "O",
+        "nuclear_unit": "C",
+        "elec_mmbtu": "CQ",
+        "net_mwh": "CR",
+        "year": "CS"
+      },
+      "identity_counts": {
+        "native_xml_rows": 17087,
+        "valid_identity_rows": 17087,
+        "selected_fuel_rows_before_quarantine": 4091
+      }
+    },
+    {
+      "year": 2024,
+      "archive_sha256": "272055f2d748f6486fc3076abd5a40ec736dbff45458bdb4c895761278c50f2b",
+      "workbook_sha256": "c7c4d3d3dc79ba136920a38563ff28bad156fe35aa9d18d4a740fdf650f8e395",
+      "selected_member": "EIA923_Schedules_2_3_4_5_M_12_2024_Final.xlsx",
+      "columns": {
+        "plant": "A",
+        "chp": "B",
+        "state": "G",
+        "prime_mover": "N",
+        "fuel": "O",
+        "nuclear_unit": "C",
+        "elec_mmbtu": "CQ",
+        "net_mwh": "CR",
+        "year": "CS"
+      },
+      "identity_counts": {
+        "native_xml_rows": 17964,
+        "valid_identity_rows": 17964,
+        "selected_fuel_rows_before_quarantine": 4031
+      }
+    }
+  ],
+  "quarantined_plants": [
+    "1",
+    "126",
+    "992",
+    "1167",
+    "2022",
+    "6338",
+    "10029",
+    "10427",
+    "50112",
+    "50936",
+    "54517",
+    "54693",
+    "54808",
+    "54809",
+    "56668",
+    "58947",
+    "59453",
+    "99999"
+  ],
+  "quarantined_plant_count": 18,
+  "quarantine_events": [
+    {
+      "plant": "50112",
+      "year": 2018,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            5587
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            5586
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "54517",
+      "year": 2018,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            7050,
+            7052
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            7049,
+            7051
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "56668",
+      "year": 2018,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "MD",
+          "chp": "N",
+          "source_rows": [
+            8896
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "Y",
+          "source_rows": [
+            8895
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AK",
+          "chp": "Y",
+          "source_rows": [
+            13864
+          ]
+        },
+        {
+          "state": "AL",
+          "chp": "N",
+          "source_rows": [
+            13804,
+            13820,
+            13823,
+            13899,
+            13930
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "N",
+          "source_rows": [
+            13802,
+            13819,
+            13898
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            13851,
+            13897
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            13790,
+            13801,
+            13806,
+            13821,
+            13839,
+            13866,
+            13876,
+            13916,
+            13938,
+            13939
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "N",
+          "source_rows": [
+            13788,
+            13832,
+            13847
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "N",
+          "source_rows": [
+            13928,
+            13950
+          ]
+        },
+        {
+          "state": "DC",
+          "chp": "Y",
+          "source_rows": [
+            13829,
+            13838
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "N",
+          "source_rows": [
+            13793,
+            13800,
+            13809,
+            13822,
+            13831,
+            13848,
+            13896,
+            13907,
+            13927,
+            13948,
+            13949,
+            13952
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "N",
+          "source_rows": [
+            13882,
+            13895
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "Y",
+          "source_rows": [
+            13865,
+            13875
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            13799,
+            13808,
+            13818,
+            13862,
+            13947,
+            13965
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "N",
+          "source_rows": [
+            13787,
+            13894,
+            13946
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "Y",
+          "source_rows": [
+            13874,
+            13878
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            13830,
+            13880,
+            13909,
+            13951
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "N",
+          "source_rows": [
+            13846,
+            13861,
+            13945,
+            13954
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "N",
+          "source_rows": [
+            13798,
+            13817,
+            13844,
+            13877,
+            13879,
+            13926,
+            13944
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "Y",
+          "source_rows": [
+            13933
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            13805,
+            13816,
+            13855,
+            13893,
+            13960
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "Y",
+          "source_rows": [
+            13837
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "N",
+          "source_rows": [
+            13833,
+            13849,
+            13860,
+            13881,
+            13883,
+            13906,
+            13925,
+            13931
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "N",
+          "source_rows": [
+            13892,
+            13924,
+            13943
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            13786,
+            13792,
+            13796,
+            13807,
+            13815,
+            13910
+          ]
+        },
+        {
+          "state": "MO",
+          "chp": "N",
+          "source_rows": [
+            13828,
+            13843,
+            13859,
+            13905,
+            13923,
+            13942,
+            13957
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "N",
+          "source_rows": [
+            13941
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "N",
+          "source_rows": [
+            13891,
+            13900,
+            13922
+          ]
+        },
+        {
+          "state": "ND",
+          "chp": "N",
+          "source_rows": [
+            13964
+          ]
+        },
+        {
+          "state": "NH",
+          "chp": "N",
+          "source_rows": [
+            13834,
+            13904,
+            13921
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            13842,
+            13869,
+            13884,
+            13890
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "Y",
+          "source_rows": [
+            13856,
+            13870,
+            13915,
+            13929,
+            13936,
+            13937
+          ]
+        },
+        {
+          "state": "NM",
+          "chp": "N",
+          "source_rows": [
+            13841,
+            13889,
+            13911,
+            13932
+          ]
+        },
+        {
+          "state": "NV",
+          "chp": "N",
+          "source_rows": [
+            13888
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            13785,
+            13858,
+            13887,
+            13963
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "Y",
+          "source_rows": [
+            13836,
+            13873,
+            13961
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "N",
+          "source_rows": [
+            13920
+          ]
+        },
+        {
+          "state": "OK",
+          "chp": "N",
+          "source_rows": [
+            13863
+          ]
+        },
+        {
+          "state": "OR",
+          "chp": "N",
+          "source_rows": [
+            13919,
+            13956
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "N",
+          "source_rows": [
+            13789
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "Y",
+          "source_rows": [
+            13835,
+            13872,
+            13914,
+            13935,
+            13958
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "Y",
+          "source_rows": [
+            13825,
+            13845,
+            13853,
+            13871,
+            13913,
+            13934,
+            13953
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "Y",
+          "source_rows": [
+            13901,
+            13908,
+            13912,
+            13959
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "N",
+          "source_rows": [
+            13795,
+            13814,
+            13824,
+            13827,
+            13850,
+            13852,
+            13854,
+            13868,
+            13903,
+            13918,
+            13955
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "N",
+          "source_rows": [
+            13803,
+            13813,
+            13940,
+            13962
+          ]
+        },
+        {
+          "state": "VA",
+          "chp": "N",
+          "source_rows": [
+            13791,
+            13797,
+            13810,
+            13812,
+            13902,
+            13917
+          ]
+        },
+        {
+          "state": "VT",
+          "chp": "N",
+          "source_rows": [
+            13867,
+            13886
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "N",
+          "source_rows": [
+            13826,
+            13840
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            13794,
+            13811,
+            13857,
+            13885
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "10427",
+      "year": 2019,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            4955
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            4954
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "126",
+      "year": 2019,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AZ",
+          "chp": "N",
+          "source_rows": [
+            126,
+            127,
+            131,
+            132,
+            134,
+            136,
+            139
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "Y",
+          "source_rows": [
+            125,
+            128,
+            129,
+            130,
+            133,
+            135,
+            137,
+            138
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AK",
+          "chp": "N",
+          "source_rows": [
+            14394
+          ]
+        },
+        {
+          "state": "AR",
+          "chp": "N",
+          "source_rows": [
+            14353,
+            14424,
+            14463,
+            14514
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "N",
+          "source_rows": [
+            14360,
+            14365,
+            14423
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            14351,
+            14352,
+            14421,
+            14422,
+            14523
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            14376,
+            14397,
+            14404,
+            14405
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "N",
+          "source_rows": [
+            14354
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "Y",
+          "source_rows": [
+            14485,
+            14511
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "N",
+          "source_rows": [
+            14355,
+            14359,
+            14361,
+            14366,
+            14409,
+            14420,
+            14425,
+            14466,
+            14467,
+            14493
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "Y",
+          "source_rows": [
+            14428,
+            14454,
+            14484
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "N",
+          "source_rows": [
+            14370,
+            14393,
+            14443,
+            14462
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            14392,
+            14408
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "Y",
+          "source_rows": [
+            14483
+          ]
+        },
+        {
+          "state": "ID",
+          "chp": "N",
+          "source_rows": [
+            14384,
+            14402
+          ]
+        },
+        {
+          "state": "ID",
+          "chp": "Y",
+          "source_rows": [
+            14410
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "N",
+          "source_rows": [
+            14419
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "Y",
+          "source_rows": [
+            14435,
+            14482
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            14369,
+            14380,
+            14391,
+            14395,
+            14441,
+            14442,
+            14461,
+            14465,
+            14468,
+            14492,
+            14499,
+            14515
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "Y",
+          "source_rows": [
+            14375,
+            14387,
+            14434,
+            14453,
+            14480,
+            14481,
+            14506
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "N",
+          "source_rows": [
+            14390,
+            14460,
+            14491
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "N",
+          "source_rows": [
+            14358,
+            14364,
+            14381,
+            14407,
+            14411,
+            14490
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "Y",
+          "source_rows": [
+            14433,
+            14446,
+            14479,
+            14497,
+            14519
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            14368,
+            14379,
+            14418
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "Y",
+          "source_rows": [
+            14374
+          ]
+        },
+        {
+          "state": "ME",
+          "chp": "N",
+          "source_rows": [
+            14504
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "N",
+          "source_rows": [
+            14521
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            14417,
+            14447,
+            14489
+          ]
+        },
+        {
+          "state": "MO",
+          "chp": "N",
+          "source_rows": [
+            14459,
+            14500,
+            14513
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "N",
+          "source_rows": [
+            14429,
+            14458,
+            14469
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "N",
+          "source_rows": [
+            14357,
+            14363,
+            14371,
+            14378,
+            14385,
+            14412,
+            14416,
+            14426,
+            14440,
+            14457
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "Y",
+          "source_rows": [
+            14438,
+            14445,
+            14452,
+            14464,
+            14471,
+            14498,
+            14505,
+            14518
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            14350,
+            14389,
+            14401,
+            14406
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            14367,
+            14372,
+            14382,
+            14383,
+            14388,
+            14488,
+            14507
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "N",
+          "source_rows": [
+            14415,
+            14439,
+            14448,
+            14456,
+            14486,
+            14487,
+            14503
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "Y",
+          "source_rows": [
+            14478
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "Y",
+          "source_rows": [
+            14436,
+            14476,
+            14477,
+            14495,
+            14508
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "N",
+          "source_rows": [
+            14414
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "N",
+          "source_rows": [
+            14430,
+            14455,
+            14502,
+            14520
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "Y",
+          "source_rows": [
+            14432,
+            14444,
+            14451,
+            14517
+          ]
+        },
+        {
+          "state": "SD",
+          "chp": "Y",
+          "source_rows": [
+            14516
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "N",
+          "source_rows": [
+            14400
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "Y",
+          "source_rows": [
+            14431,
+            14472,
+            14494,
+            14496,
+            14509
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "N",
+          "source_rows": [
+            14356,
+            14362,
+            14377,
+            14399,
+            14522
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "Y",
+          "source_rows": [
+            14386,
+            14396,
+            14403,
+            14427,
+            14450,
+            14474,
+            14475
+          ]
+        },
+        {
+          "state": "UT",
+          "chp": "N",
+          "source_rows": [
+            14413
+          ]
+        },
+        {
+          "state": "UT",
+          "chp": "Y",
+          "source_rows": [
+            14373
+          ]
+        },
+        {
+          "state": "VA",
+          "chp": "N",
+          "source_rows": [
+            14449
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            14437,
+            14470,
+            14501,
+            14512
+          ]
+        },
+        {
+          "state": "WV",
+          "chp": "N",
+          "source_rows": [
+            14398
+          ]
+        },
+        {
+          "state": "WY",
+          "chp": "Y",
+          "source_rows": [
+            14473,
+            14510
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "10029",
+      "year": 2020,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            4492,
+            4494,
+            4496,
+            4498
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "Y",
+          "source_rows": [
+            4491,
+            4493,
+            4495,
+            4497
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "2022",
+      "year": 2020,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            1720,
+            1722,
+            1724,
+            1726
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "Y",
+          "source_rows": [
+            1719,
+            1721,
+            1723,
+            1725
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AK",
+          "chp": "N",
+          "source_rows": [
+            15018,
+            15027,
+            15028
+          ]
+        },
+        {
+          "state": "AL",
+          "chp": "N",
+          "source_rows": [
+            14973,
+            14990,
+            15054,
+            15058,
+            15080,
+            15110
+          ]
+        },
+        {
+          "state": "AL",
+          "chp": "Y",
+          "source_rows": [
+            14977,
+            14985
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            14960,
+            15006,
+            15017,
+            15025,
+            15041,
+            15042,
+            15050,
+            15051,
+            15085
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            15011,
+            15012,
+            15016,
+            15032,
+            15033,
+            15077,
+            15096
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "N",
+          "source_rows": [
+            14975,
+            14984,
+            15003,
+            15062,
+            15087
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "Y",
+          "source_rows": [
+            14992
+          ]
+        },
+        {
+          "state": "DC",
+          "chp": "Y",
+          "source_rows": [
+            15002
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "N",
+          "source_rows": [
+            14966,
+            15069,
+            15081,
+            15111
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "N",
+          "source_rows": [
+            14976,
+            14991
+          ]
+        },
+        {
+          "state": "HI",
+          "chp": "N",
+          "source_rows": [
+            15115
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            15093
+          ]
+        },
+        {
+          "state": "ID",
+          "chp": "N",
+          "source_rows": [
+            15020,
+            15121
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "N",
+          "source_rows": [
+            14999,
+            15053,
+            15065,
+            15074,
+            15107
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "Y",
+          "source_rows": [
+            15001
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            15048,
+            15100
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "N",
+          "source_rows": [
+            15022,
+            15035
+          ]
+        },
+        {
+          "state": "KY",
+          "chp": "N",
+          "source_rows": [
+            15013
+          ]
+        },
+        {
+          "state": "KY",
+          "chp": "Y",
+          "source_rows": [
+            15010
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "N",
+          "source_rows": [
+            15071,
+            15078,
+            15099
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "Y",
+          "source_rows": [
+            15090
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            14961,
+            14998,
+            15014,
+            15052,
+            15070,
+            15079,
+            15106,
+            15120
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "Y",
+          "source_rows": [
+            15083,
+            15097
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "N",
+          "source_rows": [
+            14995,
+            15008,
+            15045,
+            15084,
+            15118
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "Y",
+          "source_rows": [
+            14967,
+            14974,
+            14980,
+            14986,
+            14996,
+            15009,
+            15024,
+            15036
+          ]
+        },
+        {
+          "state": "ME",
+          "chp": "N",
+          "source_rows": [
+            14964
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "N",
+          "source_rows": [
+            15064,
+            15091,
+            15105
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "Y",
+          "source_rows": [
+            15092
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            14994,
+            15007,
+            15056,
+            15114
+          ]
+        },
+        {
+          "state": "MO",
+          "chp": "N",
+          "source_rows": [
+            14971,
+            14981,
+            14987,
+            15000,
+            15005,
+            15023,
+            15039,
+            15060,
+            15102,
+            15109
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "N",
+          "source_rows": [
+            14969,
+            14982,
+            14993,
+            15004,
+            15089,
+            15103
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "N",
+          "source_rows": [
+            15040,
+            15057
+          ]
+        },
+        {
+          "state": "NE",
+          "chp": "N",
+          "source_rows": [
+            15061,
+            15101,
+            15108
+          ]
+        },
+        {
+          "state": "NH",
+          "chp": "N",
+          "source_rows": [
+            15119
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            15029
+          ]
+        },
+        {
+          "state": "NM",
+          "chp": "N",
+          "source_rows": [
+            15015,
+            15046,
+            15072
+          ]
+        },
+        {
+          "state": "NV",
+          "chp": "N",
+          "source_rows": [
+            15117
+          ]
+        },
+        {
+          "state": "NV",
+          "chp": "Y",
+          "source_rows": [
+            14972,
+            14983
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            14965,
+            15021,
+            15030,
+            15044,
+            15055
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "Y",
+          "source_rows": [
+            15034,
+            15088
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "N",
+          "source_rows": [
+            15066
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "Y",
+          "source_rows": [
+            15037
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "N",
+          "source_rows": [
+            15047
+          ]
+        },
+        {
+          "state": "SD",
+          "chp": "N",
+          "source_rows": [
+            15026
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "N",
+          "source_rows": [
+            15031
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "N",
+          "source_rows": [
+            14963,
+            14970,
+            14988,
+            15019,
+            15038,
+            15073,
+            15075,
+            15095,
+            15098,
+            15113
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "Y",
+          "source_rows": [
+            15086
+          ]
+        },
+        {
+          "state": "VA",
+          "chp": "N",
+          "source_rows": [
+            14968,
+            14978,
+            14979,
+            14989,
+            14997,
+            15063,
+            15082,
+            15104
+          ]
+        },
+        {
+          "state": "VT",
+          "chp": "N",
+          "source_rows": [
+            14962,
+            15043
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "N",
+          "source_rows": [
+            15116
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            15049,
+            15067,
+            15076
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "Y",
+          "source_rows": [
+            15059,
+            15068,
+            15094,
+            15112
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "54693",
+      "year": 2021,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "PA",
+          "chp": "N",
+          "source_rows": [
+            6765,
+            6767
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "Y",
+          "source_rows": [
+            6764,
+            6766
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "58947",
+      "year": 2021,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            10496,
+            10498,
+            10500
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "Y",
+          "source_rows": [
+            10495,
+            10497,
+            10499
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AL",
+          "chp": "N",
+          "source_rows": [
+            15675
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "N",
+          "source_rows": [
+            15755
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "Y",
+          "source_rows": [
+            15628,
+            15655,
+            15676,
+            15708,
+            15740,
+            15756,
+            15773,
+            15785,
+            15787
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            15603,
+            15604,
+            15652,
+            15680,
+            15697,
+            15734,
+            15735,
+            15736
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            15619,
+            15627,
+            15648,
+            15650,
+            15667,
+            15699,
+            15706,
+            15707,
+            15771,
+            15772
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "N",
+          "source_rows": [
+            15602,
+            15674,
+            15715,
+            15733,
+            15754,
+            15778
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "Y",
+          "source_rows": [
+            15651,
+            15748,
+            15770
+          ]
+        },
+        {
+          "state": "DC",
+          "chp": "Y",
+          "source_rows": [
+            15666
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "N",
+          "source_rows": [
+            15605,
+            15612,
+            15625,
+            15634,
+            15647,
+            15660,
+            15673,
+            15732
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "N",
+          "source_rows": [
+            15696,
+            15731
+          ]
+        },
+        {
+          "state": "HI",
+          "chp": "N",
+          "source_rows": [
+            15730
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            15601,
+            15681,
+            15753
+          ]
+        },
+        {
+          "state": "ID",
+          "chp": "Y",
+          "source_rows": [
+            15795
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "N",
+          "source_rows": [
+            15716
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "Y",
+          "source_rows": [
+            15665
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            15600,
+            15695,
+            15714,
+            15777,
+            15781,
+            15802
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "N",
+          "source_rows": [
+            15688,
+            15712,
+            15801
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "Y",
+          "source_rows": [
+            15664
+          ]
+        },
+        {
+          "state": "KY",
+          "chp": "N",
+          "source_rows": [
+            15729
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "N",
+          "source_rows": [
+            15613,
+            15624,
+            15633,
+            15646,
+            15711,
+            15752,
+            15759
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "Y",
+          "source_rows": [
+            15743,
+            15769,
+            15794
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            15728
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "N",
+          "source_rows": [
+            15659,
+            15702,
+            15741
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "Y",
+          "source_rows": [
+            15654,
+            15663,
+            15747,
+            15768
+          ]
+        },
+        {
+          "state": "ME",
+          "chp": "N",
+          "source_rows": [
+            15599,
+            15751,
+            15757,
+            15758,
+            15798
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "N",
+          "source_rows": [
+            15611,
+            15614,
+            15632,
+            15636,
+            15637,
+            15698,
+            15727,
+            15750,
+            15776,
+            15790,
+            15797
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "Y",
+          "source_rows": [
+            15653,
+            15662,
+            15686,
+            15767,
+            15784
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            15717
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "Y",
+          "source_rows": [
+            15616,
+            15640,
+            15786
+          ]
+        },
+        {
+          "state": "MO",
+          "chp": "N",
+          "source_rows": [
+            15694,
+            15710,
+            15749
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "N",
+          "source_rows": [
+            15775
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "N",
+          "source_rows": [
+            15658,
+            15671,
+            15726
+          ]
+        },
+        {
+          "state": "ND",
+          "chp": "N",
+          "source_rows": [
+            15693
+          ]
+        },
+        {
+          "state": "NE",
+          "chp": "N",
+          "source_rows": [
+            15606
+          ]
+        },
+        {
+          "state": "NH",
+          "chp": "Y",
+          "source_rows": [
+            15685
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            15692,
+            15701,
+            15725
+          ]
+        },
+        {
+          "state": "NM",
+          "chp": "N",
+          "source_rows": [
+            15661,
+            15670,
+            15724
+          ]
+        },
+        {
+          "state": "NV",
+          "chp": "N",
+          "source_rows": [
+            15598
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            15595,
+            15596,
+            15597,
+            15679,
+            15691,
+            15703,
+            15723
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "Y",
+          "source_rows": [
+            15608,
+            15617,
+            15626,
+            15629,
+            15639,
+            15649,
+            15684,
+            15705,
+            15713,
+            15761
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "N",
+          "source_rows": [
+            15623,
+            15645,
+            15657,
+            15669,
+            15677,
+            15721,
+            15722
+          ]
+        },
+        {
+          "state": "OK",
+          "chp": "N",
+          "source_rows": [
+            15594
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "N",
+          "source_rows": [
+            15690,
+            15780,
+            15789,
+            15791,
+            15792,
+            15800
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "N",
+          "source_rows": [
+            15718
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "Y",
+          "source_rows": [
+            15766,
+            15783
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "N",
+          "source_rows": [
+            15610,
+            15622,
+            15631,
+            15644,
+            15656,
+            15668,
+            15774
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "Y",
+          "source_rows": [
+            15607,
+            15621,
+            15635,
+            15638,
+            15739,
+            15742,
+            15746,
+            15765,
+            15782,
+            15788,
+            15793,
+            15799
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "N",
+          "source_rows": [
+            15700
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "N",
+          "source_rows": [
+            15593,
+            15620,
+            15643,
+            15678,
+            15689,
+            15720,
+            15760,
+            15779,
+            15796
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "Y",
+          "source_rows": [
+            15615,
+            15641,
+            15683,
+            15704,
+            15745,
+            15764
+          ]
+        },
+        {
+          "state": "UT",
+          "chp": "N",
+          "source_rows": [
+            15709
+          ]
+        },
+        {
+          "state": "UT",
+          "chp": "Y",
+          "source_rows": [
+            15762
+          ]
+        },
+        {
+          "state": "VA",
+          "chp": "N",
+          "source_rows": [
+            15609,
+            15618,
+            15630,
+            15642,
+            15719,
+            15737,
+            15744
+          ]
+        },
+        {
+          "state": "VA",
+          "chp": "Y",
+          "source_rows": [
+            15672
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            15687
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "Y",
+          "source_rows": [
+            15682,
+            15738,
+            15763
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "54809",
+      "year": 2022,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "WA",
+          "chp": "N",
+          "source_rows": [
+            6764,
+            6766,
+            6768,
+            6770
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "Y",
+          "source_rows": [
+            6763,
+            6765,
+            6767,
+            6769
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "6338",
+      "year": 2022,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AK",
+          "chp": "N",
+          "source_rows": [
+            3397,
+            3399
+          ]
+        },
+        {
+          "state": "AK",
+          "chp": "Y",
+          "source_rows": [
+            3398,
+            3400
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            16281,
+            16282,
+            16294,
+            16336,
+            16362,
+            16363,
+            16410
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            16313,
+            16328,
+            16352,
+            16353,
+            16354,
+            16403,
+            16421
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "N",
+          "source_rows": [
+            16315,
+            16332
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "N",
+          "source_rows": [
+            16297,
+            16302,
+            16303,
+            16306,
+            16311,
+            16312,
+            16320,
+            16322,
+            16360,
+            16361,
+            16388,
+            16409,
+            16439,
+            16457
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "Y",
+          "source_rows": [
+            16392,
+            16420
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "N",
+          "source_rows": [
+            16280,
+            16296,
+            16305,
+            16314,
+            16321,
+            16359,
+            16374,
+            16377,
+            16386,
+            16406,
+            16431,
+            16438
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "Y",
+          "source_rows": [
+            16380,
+            16383,
+            16419,
+            16442,
+            16451
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "N",
+          "source_rows": [
+            16335,
+            16385,
+            16408
+          ]
+        },
+        {
+          "state": "HI",
+          "chp": "N",
+          "source_rows": [
+            16456
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            16293,
+            16455
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "Y",
+          "source_rows": [
+            16307,
+            16379,
+            16433,
+            16446
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "N",
+          "source_rows": [
+            16407,
+            16428
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "Y",
+          "source_rows": [
+            16326,
+            16333,
+            16418,
+            16430
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            16291,
+            16319,
+            16330,
+            16401,
+            16436
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "N",
+          "source_rows": [
+            16346,
+            16357
+          ]
+        },
+        {
+          "state": "KY",
+          "chp": "N",
+          "source_rows": [
+            16351
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "N",
+          "source_rows": [
+            16345
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "Y",
+          "source_rows": [
+            16417
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            16290,
+            16373,
+            16397,
+            16400,
+            16426,
+            16427,
+            16444
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "N",
+          "source_rows": [
+            16350
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "Y",
+          "source_rows": [
+            16416,
+            16441
+          ]
+        },
+        {
+          "state": "ME",
+          "chp": "N",
+          "source_rows": [
+            16289
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "N",
+          "source_rows": [
+            16300,
+            16310
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "Y",
+          "source_rows": [
+            16317,
+            16327,
+            16331,
+            16339,
+            16376,
+            16415
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            16372
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "N",
+          "source_rows": [
+            16425
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "N",
+          "source_rows": [
+            16343,
+            16371
+          ]
+        },
+        {
+          "state": "ND",
+          "chp": "N",
+          "source_rows": [
+            16342
+          ]
+        },
+        {
+          "state": "NE",
+          "chp": "N",
+          "source_rows": [
+            16288
+          ]
+        },
+        {
+          "state": "NH",
+          "chp": "Y",
+          "source_rows": [
+            16338
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            16341,
+            16349,
+            16356,
+            16399,
+            16402
+          ]
+        },
+        {
+          "state": "NM",
+          "chp": "N",
+          "source_rows": [
+            16370,
+            16459
+          ]
+        },
+        {
+          "state": "NV",
+          "chp": "N",
+          "source_rows": [
+            16287
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            16286,
+            16295,
+            16299,
+            16304,
+            16309,
+            16318,
+            16347,
+            16355,
+            16369,
+            16396,
+            16398,
+            16424,
+            16443
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "N",
+          "source_rows": [
+            16301,
+            16367,
+            16368,
+            16384
+          ]
+        },
+        {
+          "state": "OK",
+          "chp": "N",
+          "source_rows": [
+            16292,
+            16395
+          ]
+        },
+        {
+          "state": "OR",
+          "chp": "N",
+          "source_rows": [
+            16285,
+            16366,
+            16454
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "N",
+          "source_rows": [
+            16340,
+            16394
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "Y",
+          "source_rows": [
+            16316,
+            16325
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "Y",
+          "source_rows": [
+            16404,
+            16440
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "N",
+          "source_rows": [
+            16365
+          ]
+        },
+        {
+          "state": "SD",
+          "chp": "N",
+          "source_rows": [
+            16393,
+            16423
+          ]
+        },
+        {
+          "state": "SD",
+          "chp": "Y",
+          "source_rows": [
+            16429
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "N",
+          "source_rows": [
+            16348
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "Y",
+          "source_rows": [
+            16324
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "N",
+          "source_rows": [
+            16284,
+            16298,
+            16308,
+            16329,
+            16364,
+            16422,
+            16458
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "Y",
+          "source_rows": [
+            16323,
+            16344,
+            16358,
+            16391,
+            16413,
+            16414,
+            16453
+          ]
+        },
+        {
+          "state": "VT",
+          "chp": "N",
+          "source_rows": [
+            16375
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "N",
+          "source_rows": [
+            16334
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "Y",
+          "source_rows": [
+            16337,
+            16382,
+            16390,
+            16405,
+            16412,
+            16434,
+            16435,
+            16445,
+            16449,
+            16452
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            16283
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "Y",
+          "source_rows": [
+            16378,
+            16381,
+            16389,
+            16411,
+            16432,
+            16437,
+            16448,
+            16450
+          ]
+        },
+        {
+          "state": "WY",
+          "chp": "N",
+          "source_rows": [
+            16387,
+            16447
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "1",
+      "year": 2023,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AK",
+          "chp": "N",
+          "source_rows": [
+            7,
+            9
+          ]
+        },
+        {
+          "state": "AK",
+          "chp": "Y",
+          "source_rows": [
+            8,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "54809",
+      "year": 2023,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "WA",
+          "chp": "N",
+          "source_rows": [
+            6652,
+            6654,
+            6656,
+            6658
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "Y",
+          "source_rows": [
+            6651,
+            6653,
+            6655,
+            6657
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AK",
+          "chp": "N",
+          "source_rows": [
+            16945,
+            17093
+          ]
+        },
+        {
+          "state": "AL",
+          "chp": "N",
+          "source_rows": [
+            16874,
+            16881,
+            16884,
+            16891,
+            16901,
+            16914,
+            16944,
+            16959,
+            17010,
+            17033,
+            17076
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "N",
+          "source_rows": [
+            16867,
+            16868,
+            16999,
+            17000
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            16864,
+            16865,
+            16866,
+            16893,
+            16894,
+            16926,
+            16943,
+            16970,
+            16997,
+            16998,
+            17056,
+            17063,
+            17077,
+            17080,
+            17092
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            16915,
+            16917,
+            16931,
+            16949,
+            16956,
+            16957,
+            16967,
+            17035
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "N",
+          "source_rows": [
+            16895,
+            16902,
+            16916,
+            16919,
+            16925,
+            16996,
+            17011,
+            17075
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "N",
+          "source_rows": [
+            16994,
+            16995,
+            17028,
+            17030,
+            17091
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "Y",
+          "source_rows": [
+            17019,
+            17046
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "N",
+          "source_rows": [
+            16869,
+            16873,
+            16880,
+            16883,
+            16890,
+            16900,
+            16913,
+            16971,
+            16993,
+            17009,
+            17027,
+            17055,
+            17062
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "Y",
+          "source_rows": [
+            16907,
+            17045,
+            17059,
+            17070,
+            17081
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "N",
+          "source_rows": [
+            16942
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "Y",
+          "source_rows": [
+            17044,
+            17069
+          ]
+        },
+        {
+          "state": "HI",
+          "chp": "N",
+          "source_rows": [
+            16863,
+            17084
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            16862,
+            16946,
+            16966,
+            16992,
+            17090
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "Y",
+          "source_rows": [
+            16908,
+            16930,
+            17005,
+            17018,
+            17036
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "N",
+          "source_rows": [
+            16965,
+            16972,
+            16991
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "Y",
+          "source_rows": [
+            16906
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            16861,
+            16990,
+            17064
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "N",
+          "source_rows": [
+            16941,
+            16964
+          ]
+        },
+        {
+          "state": "KY",
+          "chp": "N",
+          "source_rows": [
+            16912,
+            16989,
+            17001,
+            17026,
+            17054,
+            17061,
+            17066,
+            17071,
+            17078,
+            17083
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "N",
+          "source_rows": [
+            16878,
+            16892,
+            16939,
+            16963,
+            17034
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "Y",
+          "source_rows": [
+            17043
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            16870,
+            16988,
+            17089
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "Y",
+          "source_rows": [
+            17060
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "N",
+          "source_rows": [
+            16951,
+            16987
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "Y",
+          "source_rows": [
+            16955,
+            17042,
+            17068
+          ]
+        },
+        {
+          "state": "ME",
+          "chp": "N",
+          "source_rows": [
+            16860
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "N",
+          "source_rows": [
+            16924,
+            17008,
+            17012,
+            17053,
+            17074,
+            17082
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            16986
+          ]
+        },
+        {
+          "state": "MO",
+          "chp": "N",
+          "source_rows": [
+            16859,
+            16938,
+            16962,
+            17025
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "N",
+          "source_rows": [
+            16877,
+            16889,
+            17052
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "Y",
+          "source_rows": [
+            16905
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "N",
+          "source_rows": [
+            16923,
+            16969,
+            16985
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "Y",
+          "source_rows": [
+            16940,
+            17003,
+            17004,
+            17016,
+            17017,
+            17041,
+            17057,
+            17079
+          ]
+        },
+        {
+          "state": "NE",
+          "chp": "N",
+          "source_rows": [
+            16857,
+            16858
+          ]
+        },
+        {
+          "state": "NE",
+          "chp": "Y",
+          "source_rows": [
+            17037
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            16856,
+            16937,
+            16950,
+            16961,
+            16973,
+            16984
+          ]
+        },
+        {
+          "state": "NM",
+          "chp": "N",
+          "source_rows": [
+            16982,
+            16983
+          ]
+        },
+        {
+          "state": "NV",
+          "chp": "N",
+          "source_rows": [
+            16854,
+            16981
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            16852,
+            16853,
+            16871,
+            16899,
+            16922,
+            16936,
+            16960,
+            16974,
+            17029,
+            17051,
+            17088
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "Y",
+          "source_rows": [
+            16872,
+            16879,
+            16885,
+            16886,
+            16929,
+            16948,
+            16954
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "N",
+          "source_rows": [
+            16851,
+            16882,
+            16898,
+            16911,
+            16918,
+            16921,
+            16935,
+            17007,
+            17050
+          ]
+        },
+        {
+          "state": "OK",
+          "chp": "N",
+          "source_rows": [
+            16850,
+            16876,
+            16888,
+            16934,
+            17024,
+            17049,
+            17073
+          ]
+        },
+        {
+          "state": "OR",
+          "chp": "N",
+          "source_rows": [
+            16980
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "N",
+          "source_rows": [
+            16849,
+            16933,
+            16979
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "Y",
+          "source_rows": [
+            16903,
+            16904,
+            17014,
+            17040
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "N",
+          "source_rows": [
+            16968
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "Y",
+          "source_rows": [
+            17039,
+            17067
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "N",
+          "source_rows": [
+            17023,
+            17048
+          ]
+        },
+        {
+          "state": "SD",
+          "chp": "N",
+          "source_rows": [
+            16932,
+            17085
+          ]
+        },
+        {
+          "state": "SD",
+          "chp": "Y",
+          "source_rows": [
+            17058
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "N",
+          "source_rows": [
+            16897,
+            16910,
+            16952,
+            17006,
+            17013
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "N",
+          "source_rows": [
+            16855,
+            16875,
+            16887,
+            16896,
+            16909,
+            16958,
+            16978,
+            17021,
+            17022,
+            17031,
+            17032,
+            17047,
+            17072,
+            17087
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "Y",
+          "source_rows": [
+            16928,
+            16953,
+            17015,
+            17038
+          ]
+        },
+        {
+          "state": "UT",
+          "chp": "N",
+          "source_rows": [
+            17002,
+            17020,
+            17065
+          ]
+        },
+        {
+          "state": "VA",
+          "chp": "N",
+          "source_rows": [
+            16848,
+            16920,
+            16977
+          ]
+        },
+        {
+          "state": "VT",
+          "chp": "N",
+          "source_rows": [
+            16847
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "N",
+          "source_rows": [
+            16927,
+            16947
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            16846,
+            16975,
+            16976
+          ]
+        },
+        {
+          "state": "WY",
+          "chp": "N",
+          "source_rows": [
+            17086
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "1167",
+      "year": 2024,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            996,
+            998,
+            999,
+            1000
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "Y",
+          "source_rows": [
+            995,
+            997,
+            1001
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "50936",
+      "year": 2024,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            5662,
+            5664
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "Y",
+          "source_rows": [
+            5661,
+            5663
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "54808",
+      "year": 2024,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            6445,
+            6447,
+            6449,
+            6451,
+            6453,
+            6455
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "Y",
+          "source_rows": [
+            6444,
+            6446,
+            6448,
+            6450,
+            6452,
+            6454
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "59453",
+      "year": 2024,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            10374
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "Y",
+          "source_rows": [
+            10373
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "992",
+      "year": 2024,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            877,
+            879,
+            881
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "Y",
+          "source_rows": [
+            878,
+            880,
+            882
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "conflicting_plant_year_state_or_chp",
+      "contexts": [
+        {
+          "state": "AK",
+          "chp": "N",
+          "source_rows": [
+            17711
+          ]
+        },
+        {
+          "state": "AK",
+          "chp": "Y",
+          "source_rows": [
+            17773,
+            17788
+          ]
+        },
+        {
+          "state": "AL",
+          "chp": "N",
+          "source_rows": [
+            17807,
+            17838
+          ]
+        },
+        {
+          "state": "AR",
+          "chp": "N",
+          "source_rows": [
+            17725,
+            17741
+          ]
+        },
+        {
+          "state": "AR",
+          "chp": "Y",
+          "source_rows": [
+            17888,
+            17898,
+            17915,
+            17941,
+            17946
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "N",
+          "source_rows": [
+            17709,
+            17710,
+            17842,
+            17878
+          ]
+        },
+        {
+          "state": "AZ",
+          "chp": "Y",
+          "source_rows": [
+            17730
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "N",
+          "source_rows": [
+            17707,
+            17708,
+            17712,
+            17766,
+            17785,
+            17805,
+            17806,
+            17817,
+            17875,
+            17876,
+            17877,
+            17937,
+            17969,
+            17970
+          ]
+        },
+        {
+          "state": "CA",
+          "chp": "Y",
+          "source_rows": [
+            17745,
+            17757,
+            17761,
+            17769,
+            17811,
+            17823,
+            17824,
+            17839,
+            17849,
+            17850,
+            17927
+          ]
+        },
+        {
+          "state": "CO",
+          "chp": "N",
+          "source_rows": [
+            17724,
+            17742,
+            17765,
+            17784,
+            17874,
+            17907,
+            17936
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "N",
+          "source_rows": [
+            17716,
+            17753,
+            17764,
+            17770,
+            17783,
+            17872,
+            17873,
+            17906,
+            17935,
+            17940,
+            17947
+          ]
+        },
+        {
+          "state": "CT",
+          "chp": "Y",
+          "source_rows": [
+            17744,
+            17897,
+            17926
+          ]
+        },
+        {
+          "state": "DC",
+          "chp": "N",
+          "source_rows": [
+            17871
+          ]
+        },
+        {
+          "state": "FL",
+          "chp": "N",
+          "source_rows": [
+            17816,
+            17843,
+            17870,
+            17905,
+            17934
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "N",
+          "source_rows": [
+            17804,
+            17837
+          ]
+        },
+        {
+          "state": "GA",
+          "chp": "Y",
+          "source_rows": [
+            17810,
+            17822
+          ]
+        },
+        {
+          "state": "HI",
+          "chp": "N",
+          "source_rows": [
+            17869,
+            17968
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "N",
+          "source_rows": [
+            17803,
+            17825
+          ]
+        },
+        {
+          "state": "IA",
+          "chp": "Y",
+          "source_rows": [
+            17896,
+            17943,
+            17948
+          ]
+        },
+        {
+          "state": "ID",
+          "chp": "N",
+          "source_rows": [
+            17706,
+            17782,
+            17868
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "N",
+          "source_rows": [
+            17836,
+            17844,
+            17913,
+            17967
+          ]
+        },
+        {
+          "state": "IL",
+          "chp": "Y",
+          "source_rows": [
+            17756,
+            17821
+          ]
+        },
+        {
+          "state": "IN",
+          "chp": "N",
+          "source_rows": [
+            17751,
+            17763,
+            17802,
+            17879,
+            17904,
+            17942,
+            17966
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "N",
+          "source_rows": [
+            17903,
+            17933
+          ]
+        },
+        {
+          "state": "KS",
+          "chp": "Y",
+          "source_rows": [
+            17925
+          ]
+        },
+        {
+          "state": "KY",
+          "chp": "N",
+          "source_rows": [
+            17867
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "N",
+          "source_rows": [
+            17723,
+            17740,
+            17762,
+            17800,
+            17801,
+            17834,
+            17835,
+            17932
+          ]
+        },
+        {
+          "state": "LA",
+          "chp": "Y",
+          "source_rows": [
+            17887,
+            17924,
+            17951
+          ]
+        },
+        {
+          "state": "MA",
+          "chp": "N",
+          "source_rows": [
+            17705,
+            17781,
+            17866,
+            17958,
+            17965
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "N",
+          "source_rows": [
+            17815,
+            17865
+          ]
+        },
+        {
+          "state": "MD",
+          "chp": "Y",
+          "source_rows": [
+            17713,
+            17717,
+            17731,
+            17734,
+            17747,
+            17755,
+            17809,
+            17820
+          ]
+        },
+        {
+          "state": "ME",
+          "chp": "N",
+          "source_rows": [
+            17845,
+            17911,
+            17912,
+            17931
+          ]
+        },
+        {
+          "state": "ME",
+          "chp": "Y",
+          "source_rows": [
+            17772,
+            17883,
+            17891,
+            17944
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "N",
+          "source_rows": [
+            17726,
+            17739,
+            17780,
+            17799,
+            17814,
+            17826,
+            17841,
+            17938
+          ]
+        },
+        {
+          "state": "MI",
+          "chp": "Y",
+          "source_rows": [
+            17746,
+            17768,
+            17880,
+            17922,
+            17923,
+            17956,
+            17957
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "N",
+          "source_rows": [
+            17779,
+            17798,
+            17864,
+            17885,
+            17914
+          ]
+        },
+        {
+          "state": "MN",
+          "chp": "Y",
+          "source_rows": [
+            17848
+          ]
+        },
+        {
+          "state": "MO",
+          "chp": "N",
+          "source_rows": [
+            17797,
+            17833,
+            17863
+          ]
+        },
+        {
+          "state": "MS",
+          "chp": "N",
+          "source_rows": [
+            17715,
+            17722,
+            17727,
+            17729,
+            17733,
+            17738,
+            17767,
+            17910,
+            17930
+          ]
+        },
+        {
+          "state": "MT",
+          "chp": "N",
+          "source_rows": [
+            17964
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "N",
+          "source_rows": [
+            17778,
+            17862,
+            17884,
+            17889,
+            17902,
+            17929
+          ]
+        },
+        {
+          "state": "NC",
+          "chp": "Y",
+          "source_rows": [
+            17882,
+            17895,
+            17939,
+            17955
+          ]
+        },
+        {
+          "state": "NE",
+          "chp": "N",
+          "source_rows": [
+            17796,
+            17832
+          ]
+        },
+        {
+          "state": "NJ",
+          "chp": "N",
+          "source_rows": [
+            17795,
+            17818,
+            17831,
+            17860,
+            17861,
+            17908,
+            17928
+          ]
+        },
+        {
+          "state": "NM",
+          "chp": "N",
+          "source_rows": [
+            17859
+          ]
+        },
+        {
+          "state": "NV",
+          "chp": "N",
+          "source_rows": [
+            17704,
+            17858
+          ]
+        },
+        {
+          "state": "NY",
+          "chp": "N",
+          "source_rows": [
+            17752,
+            17777,
+            17794,
+            17830,
+            17846,
+            17909,
+            17963
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "N",
+          "source_rows": [
+            17721,
+            17728,
+            17737,
+            17776,
+            17857
+          ]
+        },
+        {
+          "state": "OH",
+          "chp": "Y",
+          "source_rows": [
+            17881,
+            17886,
+            17894,
+            17921,
+            17949,
+            17954
+          ]
+        },
+        {
+          "state": "OK",
+          "chp": "N",
+          "source_rows": [
+            17775
+          ]
+        },
+        {
+          "state": "OR",
+          "chp": "N",
+          "source_rows": [
+            17856
+          ]
+        },
+        {
+          "state": "OR",
+          "chp": "Y",
+          "source_rows": [
+            17840,
+            17916,
+            17920,
+            17952,
+            17953
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "N",
+          "source_rows": [
+            17793,
+            17847,
+            17855
+          ]
+        },
+        {
+          "state": "PA",
+          "chp": "Y",
+          "source_rows": [
+            17748,
+            17754,
+            17893,
+            17919
+          ]
+        },
+        {
+          "state": "RI",
+          "chp": "Y",
+          "source_rows": [
+            17918,
+            17945
+          ]
+        },
+        {
+          "state": "SC",
+          "chp": "N",
+          "source_rows": [
+            17714,
+            17720,
+            17732,
+            17736,
+            17750,
+            17760,
+            17854
+          ]
+        },
+        {
+          "state": "SD",
+          "chp": "N",
+          "source_rows": [
+            17749,
+            17759,
+            17771,
+            17792,
+            17808,
+            17959,
+            17962
+          ]
+        },
+        {
+          "state": "TN",
+          "chp": "N",
+          "source_rows": [
+            17791,
+            17813,
+            17829
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "N",
+          "source_rows": [
+            17703,
+            17719,
+            17743,
+            17828,
+            17853,
+            17901,
+            17961
+          ]
+        },
+        {
+          "state": "TX",
+          "chp": "Y",
+          "source_rows": [
+            17787,
+            17819,
+            17892,
+            17917
+          ]
+        },
+        {
+          "state": "UT",
+          "chp": "N",
+          "source_rows": [
+            17812,
+            17852,
+            17900,
+            17950
+          ]
+        },
+        {
+          "state": "VA",
+          "chp": "N",
+          "source_rows": [
+            17786,
+            17890,
+            17899
+          ]
+        },
+        {
+          "state": "VT",
+          "chp": "N",
+          "source_rows": [
+            17851
+          ]
+        },
+        {
+          "state": "WA",
+          "chp": "N",
+          "source_rows": [
+            17774,
+            17790,
+            17827,
+            17960
+          ]
+        },
+        {
+          "state": "WI",
+          "chp": "N",
+          "source_rows": [
+            17789
+          ]
+        },
+        {
+          "state": "WY",
+          "chp": "N",
+          "source_rows": [
+            17718,
+            17735,
+            17758
+          ]
+        }
+      ]
+    },
+    {
+      "plant": "56668",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        8895,
+        8896
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        13794,
+        13795,
+        13796,
+        13797,
+        13798,
+        13799,
+        13800,
+        13801,
+        13802,
+        13803,
+        13804,
+        13805
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        13811,
+        13812,
+        13813,
+        13814,
+        13815,
+        13816,
+        13817,
+        13818,
+        13819,
+        13820,
+        13821,
+        13822
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        13835,
+        13836,
+        13837,
+        13838,
+        13839,
+        13840,
+        13841,
+        13842,
+        13843,
+        13844,
+        13845,
+        13846,
+        13847,
+        13848,
+        13849,
+        13850
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        13869,
+        13870,
+        13871,
+        13872,
+        13873,
+        13874,
+        13875,
+        13876,
+        13877
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        13899,
+        13900,
+        13901,
+        13902,
+        13903,
+        13904,
+        13905,
+        13906,
+        13907
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        13930,
+        13931,
+        13932,
+        13933,
+        13934,
+        13935,
+        13936,
+        13937,
+        13938,
+        13939,
+        13940,
+        13941,
+        13942,
+        13943,
+        13944,
+        13945,
+        13946,
+        13947,
+        13948,
+        13949,
+        13950
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2018,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        13954,
+        13955,
+        13956,
+        13957
+      ]
+    },
+    {
+      "plant": "10427",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        4954,
+        4955
+      ]
+    },
+    {
+      "plant": "126",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        127,
+        128
+      ]
+    },
+    {
+      "plant": "126",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        130,
+        131
+      ]
+    },
+    {
+      "plant": "126",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        134,
+        135
+      ]
+    },
+    {
+      "plant": "126",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        138,
+        139
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        14356,
+        14357,
+        14358,
+        14359,
+        14360
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        14362,
+        14363,
+        14364,
+        14365,
+        14366
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        14373,
+        14374,
+        14375,
+        14376,
+        14377,
+        14378,
+        14379,
+        14380,
+        14381,
+        14382
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        14403,
+        14404,
+        14405,
+        14406,
+        14407,
+        14408,
+        14409
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        14429,
+        14430,
+        14431,
+        14432,
+        14433,
+        14434,
+        14435,
+        14436,
+        14437,
+        14438,
+        14439,
+        14440,
+        14441,
+        14442,
+        14443
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        14468,
+        14469,
+        14470,
+        14471,
+        14472,
+        14473,
+        14474,
+        14475,
+        14476,
+        14477,
+        14478,
+        14479,
+        14480,
+        14481,
+        14482,
+        14483,
+        14484,
+        14485,
+        14486,
+        14487,
+        14488,
+        14489,
+        14490,
+        14491,
+        14492,
+        14493
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "RC",
+      "source_rows": [
+        14500,
+        14501,
+        14502,
+        14503
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2019,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        14510,
+        14511,
+        14512,
+        14513,
+        14514
+      ]
+    },
+    {
+      "plant": "10029",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        4495,
+        4496
+      ]
+    },
+    {
+      "plant": "2022",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        1721,
+        1722
+      ]
+    },
+    {
+      "plant": "2022",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        1723,
+        1724
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        14969,
+        14970,
+        14971,
+        14972,
+        14973,
+        14974,
+        14975,
+        14976,
+        14977,
+        14978
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        14982,
+        14983,
+        14984,
+        14985,
+        14986,
+        14987,
+        14988,
+        14989,
+        14990,
+        14991
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        15001,
+        15002,
+        15003,
+        15004,
+        15005,
+        15006,
+        15007,
+        15008,
+        15009,
+        15010,
+        15011,
+        15012,
+        15013,
+        15014,
+        15015
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        15033,
+        15034,
+        15035,
+        15036,
+        15037,
+        15038,
+        15039
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        15058,
+        15059
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        15072,
+        15073,
+        15074,
+        15075,
+        15076,
+        15077,
+        15078,
+        15079,
+        15080,
+        15081,
+        15082,
+        15083,
+        15084,
+        15085,
+        15086,
+        15087,
+        15088,
+        15089,
+        15090,
+        15091,
+        15092
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "RC",
+      "source_rows": [
+        15101,
+        15102
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2020,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        15107,
+        15108,
+        15109,
+        15110
+      ]
+    },
+    {
+      "plant": "54693",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        6764,
+        6765
+      ]
+    },
+    {
+      "plant": "54693",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        6766,
+        6767
+      ]
+    },
+    {
+      "plant": "58947",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        10497,
+        10498
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        15615,
+        15616,
+        15617,
+        15618,
+        15619,
+        15620,
+        15621,
+        15622,
+        15623,
+        15624,
+        15625,
+        15626
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        15638,
+        15639,
+        15640,
+        15641,
+        15642,
+        15643,
+        15644,
+        15645,
+        15646,
+        15647,
+        15648,
+        15649
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "FC",
+      "fuel": "NG",
+      "source_rows": [
+        15651,
+        15652
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        15662,
+        15663,
+        15664,
+        15665,
+        15666,
+        15667,
+        15668,
+        15669,
+        15670,
+        15671,
+        15672,
+        15673,
+        15674,
+        15675,
+        15676
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        15703,
+        15704,
+        15705,
+        15706,
+        15707,
+        15708,
+        15709,
+        15710,
+        15711,
+        15712
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        15737,
+        15738,
+        15739,
+        15740,
+        15741
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        15759,
+        15760,
+        15761,
+        15762,
+        15763,
+        15764,
+        15765,
+        15766,
+        15767,
+        15768,
+        15769,
+        15770,
+        15771,
+        15772,
+        15773,
+        15774,
+        15775,
+        15776,
+        15777,
+        15778
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2021,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        15786,
+        15787
+      ]
+    },
+    {
+      "plant": "54809",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        6767,
+        6768
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        16296,
+        16297,
+        16298,
+        16299,
+        16300
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        16305,
+        16306,
+        16307,
+        16308,
+        16309,
+        16310
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        16321,
+        16322,
+        16323,
+        16324,
+        16325,
+        16326,
+        16327,
+        16328,
+        16329,
+        16330,
+        16331,
+        16332
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        16353,
+        16354,
+        16355,
+        16356,
+        16357,
+        16358
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        16377,
+        16378,
+        16379,
+        16380
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        16401,
+        16402,
+        16403,
+        16404,
+        16405,
+        16406,
+        16407,
+        16408,
+        16409,
+        16410,
+        16411,
+        16412,
+        16413,
+        16414,
+        16415,
+        16416,
+        16417,
+        16418,
+        16419,
+        16420,
+        16421,
+        16422,
+        16423,
+        16424,
+        16425,
+        16426,
+        16427,
+        16428
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2022,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        16446,
+        16447
+      ]
+    },
+    {
+      "plant": "54809",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        6655,
+        6656
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        16875,
+        16876,
+        16877,
+        16878,
+        16879,
+        16880,
+        16881
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        16886,
+        16887,
+        16888,
+        16889,
+        16890,
+        16891,
+        16892
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        16904,
+        16905,
+        16906,
+        16907,
+        16908,
+        16909,
+        16910,
+        16911,
+        16912,
+        16913,
+        16914,
+        16915,
+        16916
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        16953,
+        16954,
+        16955,
+        16956,
+        16957,
+        16958,
+        16959,
+        16960,
+        16961,
+        16962,
+        16963,
+        16964,
+        16965,
+        16966
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        17001,
+        17002,
+        17003,
+        17004,
+        17005,
+        17006,
+        17007,
+        17008,
+        17009,
+        17010
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "LIG",
+      "source_rows": [
+        17031,
+        17032
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        17033,
+        17034,
+        17035,
+        17036,
+        17037,
+        17038,
+        17039,
+        17040,
+        17041,
+        17042,
+        17043,
+        17044,
+        17045,
+        17046,
+        17047,
+        17048,
+        17049,
+        17050,
+        17051,
+        17052,
+        17053,
+        17054,
+        17055,
+        17056
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "RC",
+      "source_rows": [
+        17065,
+        17066
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2023,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        17071,
+        17072,
+        17073,
+        17074,
+        17075,
+        17076
+      ]
+    },
+    {
+      "plant": "1167",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        997,
+        998
+      ]
+    },
+    {
+      "plant": "1167",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "SUB",
+      "source_rows": [
+        1000,
+        1001
+      ]
+    },
+    {
+      "plant": "50936",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        5663,
+        5664
+      ]
+    },
+    {
+      "plant": "54808",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        6446,
+        6447
+      ]
+    },
+    {
+      "plant": "54808",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        6450,
+        6451
+      ]
+    },
+    {
+      "plant": "59453",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        10373,
+        10374
+      ]
+    },
+    {
+      "plant": "992",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        877,
+        878
+      ]
+    },
+    {
+      "plant": "992",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        881,
+        882
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CA",
+      "fuel": "NG",
+      "source_rows": [
+        17717,
+        17718,
+        17719,
+        17720,
+        17721,
+        17722,
+        17723,
+        17724,
+        17725,
+        17726
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CS",
+      "fuel": "NG",
+      "source_rows": [
+        17729,
+        17730
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "CT",
+      "fuel": "NG",
+      "source_rows": [
+        17734,
+        17735,
+        17736,
+        17737,
+        17738,
+        17739,
+        17740,
+        17741,
+        17742,
+        17743
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "FC",
+      "fuel": "NG",
+      "source_rows": [
+        17744,
+        17745
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "GT",
+      "fuel": "NG",
+      "source_rows": [
+        17754,
+        17755,
+        17756,
+        17757,
+        17758,
+        17759,
+        17760,
+        17761,
+        17762,
+        17763,
+        17764,
+        17765,
+        17766,
+        17767,
+        17768
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "IC",
+      "fuel": "NG",
+      "source_rows": [
+        17819,
+        17820,
+        17821,
+        17822,
+        17823,
+        17824,
+        17825,
+        17826,
+        17827,
+        17828,
+        17829,
+        17830,
+        17831,
+        17832,
+        17833,
+        17834,
+        17835,
+        17836,
+        17837,
+        17838
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "BIT",
+      "source_rows": [
+        17879,
+        17880,
+        17881,
+        17882,
+        17883,
+        17884,
+        17885
+      ]
+    },
+    {
+      "plant": "99999",
+      "year": 2024,
+      "reason": "duplicate_selected_key",
+      "prime_mover": "ST",
+      "fuel": "NG",
+      "source_rows": [
+        17913,
+        17914,
+        17915,
+        17916,
+        17917,
+        17918,
+        17919,
+        17920,
+        17921,
+        17922,
+        17923,
+        17924,
+        17925,
+        17926,
+        17927,
+        17928,
+        17929,
+        17930,
+        17931,
+        17932,
+        17933,
+        17934,
+        17935,
+        17936,
+        17937
+      ]
+    }
+  ],
+  "quarantined_selected_rows_by_year": [
+    {
+      "year": 2018,
+      "rows": 111
+    },
+    {
+      "year": 2019,
+      "rows": 105
+    },
+    {
+      "year": 2020,
+      "rows": 100
+    },
+    {
+      "year": 2021,
+      "rows": 104
+    },
+    {
+      "year": 2022,
+      "rows": 84
+    },
+    {
+      "year": 2023,
+      "rows": 109
+    },
+    {
+      "year": 2024,
+      "rows": 123
+    }
+  ],
+  "retained_rows": 27842,
+  "retained_rows_by_year_fuel": [
+    {
+      "year": 2018,
+      "fuel": "BIT",
+      "rows": 401
+    },
+    {
+      "year": 2018,
+      "fuel": "LIG",
+      "rows": 26
+    },
+    {
+      "year": 2018,
+      "fuel": "NG",
+      "rows": 3204
+    },
+    {
+      "year": 2018,
+      "fuel": "RC",
+      "rows": 57
+    },
+    {
+      "year": 2018,
+      "fuel": "SUB",
+      "rows": 243
+    },
+    {
+      "year": 2018,
+      "fuel": "WC",
+      "rows": 28
+    },
+    {
+      "year": 2018,
+      "fuel": "WH",
+      "rows": 37
+    },
+    {
+      "year": 2019,
+      "fuel": "BIT",
+      "rows": 378
+    },
+    {
+      "year": 2019,
+      "fuel": "LIG",
+      "rows": 22
+    },
+    {
+      "year": 2019,
+      "fuel": "NG",
+      "rows": 3234
+    },
+    {
+      "year": 2019,
+      "fuel": "RC",
+      "rows": 63
+    },
+    {
+      "year": 2019,
+      "fuel": "SUB",
+      "rows": 231
+    },
+    {
+      "year": 2019,
+      "fuel": "WC",
+      "rows": 27
+    },
+    {
+      "year": 2019,
+      "fuel": "WH",
+      "rows": 37
+    },
+    {
+      "year": 2020,
+      "fuel": "BIT",
+      "rows": 365
+    },
+    {
+      "year": 2020,
+      "fuel": "LIG",
+      "rows": 23
+    },
+    {
+      "year": 2020,
+      "fuel": "NG",
+      "rows": 3214
+    },
+    {
+      "year": 2020,
+      "fuel": "RC",
+      "rows": 63
+    },
+    {
+      "year": 2020,
+      "fuel": "SUB",
+      "rows": 222
+    },
+    {
+      "year": 2020,
+      "fuel": "WC",
+      "rows": 26
+    },
+    {
+      "year": 2020,
+      "fuel": "WH",
+      "rows": 39
+    },
+    {
+      "year": 2021,
+      "fuel": "ANT",
+      "rows": 1
+    },
+    {
+      "year": 2021,
+      "fuel": "BIT",
+      "rows": 344
+    },
+    {
+      "year": 2021,
+      "fuel": "LIG",
+      "rows": 23
+    },
+    {
+      "year": 2021,
+      "fuel": "NG",
+      "rows": 3293
+    },
+    {
+      "year": 2021,
+      "fuel": "RC",
+      "rows": 59
+    },
+    {
+      "year": 2021,
+      "fuel": "SUB",
+      "rows": 211
+    },
+    {
+      "year": 2021,
+      "fuel": "WC",
+      "rows": 25
+    },
+    {
+      "year": 2021,
+      "fuel": "WH",
+      "rows": 38
+    },
+    {
+      "year": 2022,
+      "fuel": "ANT",
+      "rows": 4
+    },
+    {
+      "year": 2022,
+      "fuel": "BIT",
+      "rows": 332
+    },
+    {
+      "year": 2022,
+      "fuel": "LIG",
+      "rows": 22
+    },
+    {
+      "year": 2022,
+      "fuel": "NG",
+      "rows": 3337
+    },
+    {
+      "year": 2022,
+      "fuel": "RC",
+      "rows": 59
+    },
+    {
+      "year": 2022,
+      "fuel": "SUB",
+      "rows": 203
+    },
+    {
+      "year": 2022,
+      "fuel": "WC",
+      "rows": 23
+    },
+    {
+      "year": 2022,
+      "fuel": "WH",
+      "rows": 38
+    },
+    {
+      "year": 2023,
+      "fuel": "ANT",
+      "rows": 4
+    },
+    {
+      "year": 2023,
+      "fuel": "BIT",
+      "rows": 320
+    },
+    {
+      "year": 2023,
+      "fuel": "LIG",
+      "rows": 21
+    },
+    {
+      "year": 2023,
+      "fuel": "NG",
+      "rows": 3335
+    },
+    {
+      "year": 2023,
+      "fuel": "RC",
+      "rows": 45
+    },
+    {
+      "year": 2023,
+      "fuel": "SUB",
+      "rows": 196
+    },
+    {
+      "year": 2023,
+      "fuel": "WC",
+      "rows": 23
+    },
+    {
+      "year": 2023,
+      "fuel": "WH",
+      "rows": 38
+    },
+    {
+      "year": 2024,
+      "fuel": "ANT",
+      "rows": 4
+    },
+    {
+      "year": 2024,
+      "fuel": "BIT",
+      "rows": 302
+    },
+    {
+      "year": 2024,
+      "fuel": "LIG",
+      "rows": 20
+    },
+    {
+      "year": 2024,
+      "fuel": "NG",
+      "rows": 3293
+    },
+    {
+      "year": 2024,
+      "fuel": "RC",
+      "rows": 41
+    },
+    {
+      "year": 2024,
+      "fuel": "SUB",
+      "rows": 186
+    },
+    {
+      "year": 2024,
+      "fuel": "WC",
+      "rows": 23
+    },
+    {
+      "year": 2024,
+      "fuel": "WH",
+      "rows": 39
+    }
+  ],
+  "source_cells_sha256": "64cf7e4ba1dcc693b1ce907d4850a8f6c0a0b82743c627f92d2d4dd4a36828fc",
+  "original_v1_gate": "FAILED_UNCHANGED",
+  "quantities_for_ambiguous_rows_aggregated": false,
+  "decomposition_outcomes_computed": false,
+  "scope": "Only unambiguous source identities; subsequent explicit non-CHP/state/fuel/completeness/aggregate-positivity rules remain mandatory. Not the complete national fleet or a known share of national output.",
+  "units": {
+    "elec_mmbtu_raw": "Electricity fuel consumption, MMBtu",
+    "net_mwh_raw": "Net generation, MWh"
+  },
+  "omitted": "Raw workbooks; other sheets; plant/operator/contact names; coordinates; private cost fields; ambiguous quantities; agency artwork"
+}
