@@ -1,0 +1,7 @@
+# Study25: source-key and CHP-classification hold
+
+The heat-rate decomposition study remains **unreleased**. The fixed source gate requires unique plant/prime-mover/fuel/year keys and internally consistent plant-year CHP classification. In the final2018 EIA-923 generation/fuel workbook, rows8895 and8896 both identify plant56668, GT, NG,2018, but one is CHP Y/sector5 and the other CHP N/sector4. An independent workbook reader confirms these dimensions. No evidence establishes that the two records are non-overlapping reporting partitions.
+
+The [official source](https://www.eia.gov/electricity/data/eia923/) is accessible; all seven fixed annual archives and their hashes are retained privately. The [draft project](https://github.com/S3R3Bii/heat-rate-composition) records the protocol before retrieval and the header-only clarification before value inspection. The initial broad sheet selector was corrected before value rows; the later key/CHP failure is substantive. No decomposition, held metric, manuscript or release is claimed, and no unvalidated source projection was published.
+
+Resume under the same gate only after authoritative EIA interpretation or a corrected snapshot resolves the conflict. Do not assume disjointness, silently choose a duplicate, relabel CHP status or weaken the fixed criterion. A different reporting-cell design must be separately labeled and fixed before its analysis. Continue unaffected studies. Formal-publication projects remain private.

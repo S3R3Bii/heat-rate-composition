@@ -1,0 +1,722 @@
+[
+  {
+    "end_year": 2019,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 250,
+    "matched_plants": 250,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 250,
+    "matched_plants": 250,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1319,
+    "matched_plants": 1319,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1161,
+    "matched_plants": 1161,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1460,
+    "matched_plants": 1320,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1262,
+    "matched_plants": 1159,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1569,
+    "matched_plants": 1456,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1340,
+    "matched_plants": 1261,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1710,
+    "matched_plants": 1457,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2019,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1441,
+    "matched_plants": 1260,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 237,
+    "matched_plants": 237,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 237,
+    "matched_plants": 237,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1359,
+    "matched_plants": 1359,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1161,
+    "matched_plants": 1161,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1493,
+    "matched_plants": 1360,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1262,
+    "matched_plants": 1159,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1596,
+    "matched_plants": 1483,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1340,
+    "matched_plants": 1261,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1730,
+    "matched_plants": 1484,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2020,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1441,
+    "matched_plants": 1260,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 219,
+    "matched_plants": 219,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 219,
+    "matched_plants": 219,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1360,
+    "matched_plants": 1360,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1161,
+    "matched_plants": 1161,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1492,
+    "matched_plants": 1359,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1262,
+    "matched_plants": 1159,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1579,
+    "matched_plants": 1475,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1340,
+    "matched_plants": 1261,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1711,
+    "matched_plants": 1474,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2021,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1441,
+    "matched_plants": 1260,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 209,
+    "matched_plants": 209,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 209,
+    "matched_plants": 209,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1460,
+    "matched_plants": 1460,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1161,
+    "matched_plants": 1161,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1590,
+    "matched_plants": 1460,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1262,
+    "matched_plants": 1159,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1669,
+    "matched_plants": 1570,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1340,
+    "matched_plants": 1261,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1799,
+    "matched_plants": 1570,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2022,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1441,
+    "matched_plants": 1260,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 190,
+    "matched_plants": 190,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 190,
+    "matched_plants": 190,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1502,
+    "matched_plants": 1502,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1161,
+    "matched_plants": 1161,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1632,
+    "matched_plants": 1501,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1262,
+    "matched_plants": 1159,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1692,
+    "matched_plants": 1600,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1340,
+    "matched_plants": 1261,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1822,
+    "matched_plants": 1599,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2023,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1441,
+    "matched_plants": 1260,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 182,
+    "matched_plants": 182,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "coal",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 182,
+    "matched_plants": 182,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "coal",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 179,
+    "matched_plants": 179,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1503,
+    "matched_plants": 1503,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "natural_gas",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1161,
+    "matched_plants": 1161,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1626,
+    "matched_plants": 1502,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "natural_gas",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1262,
+    "matched_plants": 1159,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1685,
+    "matched_plants": 1598,
+    "required_primary_support": true,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "pooled",
+    "grain": "plant_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1340,
+    "matched_plants": 1261,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "pair_common",
+    "matched_cells": 1808,
+    "matched_plants": 1597,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  },
+  {
+    "end_year": 2024,
+    "fleet": "pooled",
+    "grain": "plant_technology_fuel",
+    "cohort": "balanced_2018_2024",
+    "matched_cells": 1441,
+    "matched_plants": 1260,
+    "required_primary_support": false,
+    "primary_support_pass": true
+  }
+]

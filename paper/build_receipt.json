@@ -1,0 +1,27 @@
+{
+  "status": "PASS_COMPILE_AND_SIX_PAGE_VISUAL_REVIEW",
+  "timestamp_utc": "2026-10-31T00:30:44.152844+00:00",
+  "compiler": "Tectonic",
+  "pages": 6,
+  "render_tool": "Poppler pdftoppm",
+  "render_dpi": 95,
+  "visual_checks": "All six current rendered pages individually inspected: executive table, units, original failure and narrower cohort, exact equations, full case matrix and influence figure, evidence and limitations. No clipping or overlapping labels observed. Figures retain larger linked PNG/SVG versions. No accessibility-conformance claim.",
+  "layout_warnings": [],
+  "artifact_sha256": {
+    "paper/main.tex": "000326c2bb1e99366e1fe5708d3bf5ad6a55033c231481a318efe2c15396b4fd",
+    "paper/manuscript.pdf": "688aec453d06040a48a96592b5add3ea134d97a08b75c52a73ba88eeee241b1a",
+    "paper/images/full_case_sensitivity.pdf": "4da675b291ff2fecdb9533b01ee421313a6feec535a19508cc52a542b8155793",
+    "paper/images/latest_reported_bridge.pdf": "8ef46c3723ffb84a51dcba72b3efb7f6488fc511aa66c93d550ad7735e048947",
+    "paper/images/plant_influence_ranges.pdf": "646106e24607702b41d8ddc48416754d60c77e7334c8147590b7ef344cbfe0bf"
+  },
+  "rendered_page_sha256": {
+    "1": "52475210f05e1582997754da6582f04719ed52c8dddbea6039be06175d6f5665",
+    "2": "bee9870defd3acf19ba723a6014bf352df1d466fe0f378ae3be0f57db368dd64",
+    "3": "e89a591df04c2c39b7e213d4a31dab94d562dc55e1a94538f9f9bf5dbe104545",
+    "4": "55fc614390b406827bd3198937f66c1a716d603c87ef1904102d1b654530bc01",
+    "5": "e58344b79a5557b920bf4ce9c0b51bcf0498cf5afe02f21763476cf1b0d69481",
+    "6": "fdb370ba5d912acb56e6d7b01b14927e2502093fe408d9fc5cad594993359587"
+  },
+  "private_log_sha256": "03af8839480a25b5966799aa49480b0c1d9bd68b6efc42a7375b1d3534e9c03e",
+  "prior_layout_failure": "First compile overfull slash-delimited coal-code list preserved privately; comma-separated code list fixed the paragraph; all current pages freshly rendered and inspected."
+}

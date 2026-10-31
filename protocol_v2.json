@@ -1,0 +1,171 @@
+{
+  "version": 2,
+  "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "development_pair_end_years": [
+    2019,
+    2020,
+    2021
+  ],
+  "held_pair_end_years": [
+    2022,
+    2023,
+    2024
+  ],
+  "fleets": [
+    "coal",
+    "natural_gas",
+    "pooled"
+  ],
+  "coal_codes": [
+    "ANT",
+    "BIT",
+    "LIG",
+    "SUB",
+    "RC",
+    "WC"
+  ],
+  "natural_gas_codes": [
+    "NG"
+  ],
+  "chp": "Exclude CHP and unknown status; retain only explicit non-CHP records.",
+  "geography": "50 US states and District of Columbia; not territories",
+  "grain": [
+    "plant_fuel",
+    "plant_technology_fuel"
+  ],
+  "combined_cycle_codes": [
+    "CA",
+    "CT",
+    "CS"
+  ],
+  "cohorts": [
+    "pair_common",
+    "balanced_2018_2024"
+  ],
+  "primary": {
+    "grain": "plant_fuel",
+    "cohort": "pair_common"
+  },
+  "cases": 72,
+  "development_cases": 36,
+  "held_cases": 36,
+  "precision_digits": 60,
+  "independent_precision_digits": 80,
+  "absolute_numeric_tolerance": "1e-45",
+  "heat_rate_units": "MMBtu per MWh",
+  "selection": "No fitting, tuning or stochastic computation; all fixed cases retained.",
+  "seed": null,
+  "source_sheet": "Page 1 Generation and Fuel Data",
+  "source_header_row": 6,
+  "diagnostic_fuels": [
+    "WH"
+  ],
+  "allowed_prime_movers": [
+    "BA",
+    "BT",
+    "CA",
+    "CE",
+    "CP",
+    "CS",
+    "CT",
+    "ES",
+    "FC",
+    "FW",
+    "GT",
+    "HA",
+    "HB",
+    "HK",
+    "HY",
+    "IC",
+    "PS",
+    "OT",
+    "ST",
+    "PV",
+    "WT",
+    "WS"
+  ],
+  "states": [
+    "AL",
+    "AK",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "DC",
+    "FL",
+    "GA",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "VA",
+    "WA",
+    "WV",
+    "WI",
+    "WY"
+  ],
+  "source_fields": {
+    "plant": "Plant Id",
+    "chp": "Combined Heat And\nPower Plant",
+    "state": "Plant State",
+    "prime_mover": "Reported\nPrime Mover",
+    "fuel": "Reported\nFuel Type Code",
+    "nuclear_unit": "Nuclear Unit Id",
+    "elec_mmbtu": "Elec Fuel Consumption\nMMBtu",
+    "net_mwh": "Net Generation\n(Megawatthours)",
+    "year": "YEAR"
+  },
+  "scope": "Explicit unambiguous reporting cohort; original v1 failure preserved",
+  "quarantine": {
+    "basis": "All seven archives; all fuel-row state/CHP contexts plus duplicate selected coal/NG/WH source keys",
+    "scope": "Entire plant in every year, grain and fleet",
+    "quantity_aggregation": "Forbidden for ambiguous excluded records",
+    "outcome_informed": false
+  },
+  "primary_minimum_matched_plants": 2,
+  "independent_workbook_absolute_bound": "1e-6",
+  "independent_workbook_relative_bound": "1e-15",
+  "direct_influence_checks": "First, middle and last sorted plant per primary case",
+  "original_v1_gate": "FAILED_UNCHANGED"
+}

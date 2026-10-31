@@ -1,0 +1,187 @@
+{
+  "status": "PASS_SOURCE_AGGREGATION_AND_FIXED_SUPPORT",
+  "source_rows": 27842,
+  "group_rows": 29996,
+  "group_counts": [
+    {
+      "grain": "plant_fuel",
+      "year": 2018,
+      "reason": "eligible",
+      "cells": 1647
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2018,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 362
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2019,
+      "reason": "eligible",
+      "cells": 1656
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2019,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 359
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2020,
+      "reason": "eligible",
+      "cells": 1647
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2020,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 350
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2021,
+      "reason": "eligible",
+      "cells": 1721
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2021,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 342
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2022,
+      "reason": "eligible",
+      "cells": 1764
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2022,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 338
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2023,
+      "reason": "eligible",
+      "cells": 1737
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2023,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 352
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2024,
+      "reason": "eligible",
+      "cells": 1730
+    },
+    {
+      "grain": "plant_fuel",
+      "year": 2024,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 341
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2018,
+      "reason": "eligible",
+      "cells": 1806
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2018,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 407
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2019,
+      "reason": "eligible",
+      "cells": 1801
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2019,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 407
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2020,
+      "reason": "eligible",
+      "cells": 1786
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2020,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 393
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2021,
+      "reason": "eligible",
+      "cells": 1861
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2021,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 389
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2022,
+      "reason": "eligible",
+      "cells": 1905
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2022,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 378
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2023,
+      "reason": "eligible",
+      "cells": 1874
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2023,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 397
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2024,
+      "reason": "eligible",
+      "cells": 1859
+    },
+    {
+      "grain": "plant_technology_fuel",
+      "year": 2024,
+      "reason": "nonpositive_aggregate_fuel_or_generation",
+      "cells": 387
+    }
+  ],
+  "case_support_rows": 72,
+  "primary_support_cases": 18,
+  "failed_primary_support_cases": [],
+  "empty_secondary_cases": 0,
+  "negative_source_generation_components_by_grain": {
+    "plant_fuel": 329,
+    "plant_technology_fuel": 329
+  },
+  "original_v1_gate": "FAILED_UNCHANGED",
+  "decomposition_outcomes_computed": false,
+  "ambiguous_quantities_aggregated": false,
+  "scope": "Exact source sums and membership/support only; no fuel/generation ratios, within/mix or influence scores."
+}

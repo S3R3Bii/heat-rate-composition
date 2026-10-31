@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.gz -text
+*.pdf -text
+*.png -text
+paper/main.tex -text

@@ -1,0 +1,11 @@
+{
+  "status": "PASS_INDEPENDENT_SQL_DECIMAL_GROUPING_AND_SUPPORT",
+  "source_rows": 27842,
+  "group_rows": 29996,
+  "case_support_rows": 72,
+  "conditions": 540314,
+  "primary_support_failures": 0,
+  "method": "Separate SQLite CASE/grouping, 80-digit Decimal aggregate, independent eligibility and set intersections; no production grouping/decomposition helpers imported",
+  "original_v1_gate": "FAILED_UNCHANGED",
+  "decomposition_outcomes_computed": false
+}

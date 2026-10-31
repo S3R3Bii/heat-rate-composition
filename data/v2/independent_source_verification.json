@@ -1,0 +1,23 @@
+{
+  "status": "PASS_INDEPENDENT_V2_NATIVE_SOURCE",
+  "retained_rows": 27842,
+  "native_selected_rows": 28578,
+  "quarantined_selected_rows": 736,
+  "quarantined_plants": 18,
+  "quarantine_events": 102,
+  "selected_native_identity_fields": 257202,
+  "source_and_projected_field_conditions": 814042,
+  "independent_numeric_conversion_conditions": 55684,
+  "maximum_numeric_conversion_error": "7E-10",
+  "maximum_fraction_of_declared_conversion_bound": "0.00069414706736463866996020927691510168256615845648761888921348409783082914040443472",
+  "public_source_sha256": "64cf7e4ba1dcc693b1ce907d4850a8f6c0a0b82743c627f92d2d4dd4a36828fc",
+  "public_manifest_sha256": "83f06312c4d06b837906ccd2d7b4268c6e0ffedff75c439ccc3793ad5f6ad2f7",
+  "readers": {
+    "openpyxl": "3.1.5",
+    "lxml": "6.1.1"
+  },
+  "ambiguous_quantities_aggregated": false,
+  "original_v1_gate": "FAILED_UNCHANGED",
+  "decomposition_outcomes_computed": false,
+  "method": "Independent complete openpyxl identity/context/key scan and whole-plant quarantine; separate lxml raw-token/source-hash reconciliation of every retained cell; Decimal checks of workbook-reader conversion. No production parser or quarantine helper imports."
+}

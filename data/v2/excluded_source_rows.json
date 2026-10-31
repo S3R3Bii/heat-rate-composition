@@ -1,0 +1,142 @@
+[
+  {
+    "year": 2018,
+    "reason": "diagnostic_waste_heat",
+    "rows": 37,
+    "known_fuel_mmbtu": "32788864",
+    "known_net_mwh": "3574322.81",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2018,
+    "reason": "not_explicit_non_chp",
+    "rows": 1216,
+    "known_fuel_mmbtu": "2191035209",
+    "known_net_mwh": "302427317.81399999832609639",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2019,
+    "reason": "diagnostic_waste_heat",
+    "rows": 37,
+    "known_fuel_mmbtu": "32079451",
+    "known_net_mwh": "3557688.429999999998",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2019,
+    "reason": "not_explicit_non_chp",
+    "rows": 1212,
+    "known_fuel_mmbtu": "2102461830",
+    "known_net_mwh": "295146436.64899999970490229",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2020,
+    "reason": "diagnostic_waste_heat",
+    "rows": 39,
+    "known_fuel_mmbtu": "29517228",
+    "known_net_mwh": "3309199.27",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2020,
+    "reason": "not_explicit_non_chp",
+    "rows": 1198,
+    "known_fuel_mmbtu": "1996322116",
+    "known_net_mwh": "281755546.2609999997567687",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2021,
+    "reason": "diagnostic_waste_heat",
+    "rows": 38,
+    "known_fuel_mmbtu": "29942652",
+    "known_net_mwh": "3296675.8",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2021,
+    "reason": "not_explicit_non_chp",
+    "rows": 1179,
+    "known_fuel_mmbtu": "2011706458",
+    "known_net_mwh": "282891108.94799999990620332",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2022,
+    "reason": "diagnostic_waste_heat",
+    "rows": 38,
+    "known_fuel_mmbtu": "10556016",
+    "known_net_mwh": "3007637.39",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2022,
+    "reason": "not_explicit_non_chp",
+    "rows": 1170,
+    "known_fuel_mmbtu": "2004317120",
+    "known_net_mwh": "282034793.95399999983213491",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2023,
+    "reason": "diagnostic_waste_heat",
+    "rows": 38,
+    "known_fuel_mmbtu": "9693061",
+    "known_net_mwh": "2755445.9599999999991",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2023,
+    "reason": "not_explicit_non_chp",
+    "rows": 1161,
+    "known_fuel_mmbtu": "1984959066",
+    "known_net_mwh": "282808759.0520000002383413",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2024,
+    "reason": "diagnostic_waste_heat",
+    "rows": 39,
+    "known_fuel_mmbtu": "9361848",
+    "known_net_mwh": "2641858",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  },
+  {
+    "year": 2024,
+    "reason": "not_explicit_non_chp",
+    "rows": 1127,
+    "known_fuel_mmbtu": "1991259190",
+    "known_net_mwh": "284422785.267000000961137197",
+    "missing_fuel_values": 0,
+    "missing_generation_values": 0,
+    "meaning": "As-reported unambiguous source-row sums; waste heat remains separate from selected fuel attribution."
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "timestamp_utc": "2026-10-31T00:19:51.851599+00:00",
+  "status": "COMPLETE_NUMERICAL_EVIDENCE_PRESENTATION_REPLAY_RELEASE_PENDING",
+  "original_failed_revision": "a4f871a",
+  "original_v1_gate": "FAILED_UNCHANGED",
+  "source_bytes_already_present": true,
+  "source_quality_informed_cohort": true,
+  "decomposition_results_seen": "All72 predeclared cases; no changes to outcomes/cohorts/parameters",
+  "source_gate": "PASS_NATIVE_GROUPING_AND_FIXED_SUPPORT",
+  "release": "figures/manuscript/isolated replay/exact CI/tree/tag/metadata pending",
+  "grade": 2,
+  "review_budget": {
+    "round": 3,
+    "interpretation": "Original source failure is historical round1; combined v2 source/development produce/check is round2; final/presentation phase is round3. No reset of prior review work.",
+    "max_rounds": 3,
+    "max_active_review_minutes": 45,
+    "max_review_tool_calls": 60
+  },
+  "native_source": {
+    "status": "PASS_INDEPENDENT_V2_NATIVE_SOURCE",
+    "retained_rows": 27842,
+    "native_selected_rows": 28578,
+    "quarantined_selected_rows": 736,
+    "quarantined_plants": 18,
+    "quarantine_events": 102,
+    "selected_native_identity_fields": 257202,
+    "source_and_projected_field_conditions": 814042,
+    "independent_numeric_conversion_conditions": 55684,
+    "maximum_numeric_conversion_error": "7E-10",
+    "maximum_fraction_of_declared_conversion_bound": "0.00069414706736463866996020927691510168256615845648761888921348409783082914040443472",
+    "public_source_sha256": "64cf7e4ba1dcc693b1ce907d4850a8f6c0a0b82743c627f92d2d4dd4a36828fc",
+    "public_manifest_sha256": "83f06312c4d06b837906ccd2d7b4268c6e0ffedff75c439ccc3793ad5f6ad2f7",
+    "readers": {
+      "openpyxl": "3.1.5",
+      "lxml": "6.1.1"
+    },
+    "ambiguous_quantities_aggregated": false,
+    "original_v1_gate": "FAILED_UNCHANGED",
+    "decomposition_outcomes_computed": false,
+    "method": "Independent complete openpyxl identity/context/key scan and whole-plant quarantine; separate lxml raw-token/source-hash reconciliation of every retained cell; Decimal checks of workbook-reader conversion. No production parser or quarantine helper imports."
+  },
+  "grouping": {
+    "status": "PASS_INDEPENDENT_SQL_DECIMAL_GROUPING_AND_SUPPORT",
+    "source_rows": 27842,
+    "group_rows": 29996,
+    "case_support_rows": 72,
+    "conditions": 540314,
+    "primary_support_failures": 0,
+    "method": "Separate SQLite CASE/grouping, 80-digit Decimal aggregate, independent eligibility and set intersections; no production grouping/decomposition helpers imported",
+    "original_v1_gate": "FAILED_UNCHANGED",
+    "decomposition_outcomes_computed": false
+  },
+  "fixtures": 22,
+  "development": {
+    "status": "PASS_INDEPENDENT_V2_DECOMPOSITIONS",
+    "phase": "development",
+    "conditions": 658242,
+    "cases": 36,
+    "cell_contributions": 36476,
+    "plant_deletions": 9158,
+    "direct_deletion_recomputations": 27,
+    "maximum_absolute_numeric_difference": "3.6363636363636363636E-56",
+    "declared_absolute_tolerance": "1e-45",
+    "independent_precision_digits": 80,
+    "method": "Independent source SQL/Decimal qualification; direct 80-digit per-cell paths, symmetry and outside-cohort bridge; separately reconstructed all-plant subtraction sums plus fixed first/middle/last direct deletions. No production aggregation/decomposition helpers imported.",
+    "original_v1_gate": "FAILED_UNCHANGED"
+  },
+  "held": {
+    "status": "PASS_INDEPENDENT_V2_DECOMPOSITIONS",
+    "phase": "held",
+    "conditions": 682050,
+    "cases": 36,
+    "cell_contributions": 37636,
+    "plant_deletions": 9814,
+    "direct_deletion_recomputations": 27,
+    "maximum_absolute_numeric_difference": "3.6363636363636363636E-56",
+    "declared_absolute_tolerance": "1e-45",
+    "independent_precision_digits": 80,
+    "method": "Independent source SQL/Decimal qualification; direct 80-digit per-cell paths, symmetry and outside-cohort bridge; separately reconstructed all-plant subtraction sums plus fixed first/middle/last direct deletions. No production aggregation/decomposition helpers imported.",
+    "original_v1_gate": "FAILED_UNCHANGED"
+  }
+}
