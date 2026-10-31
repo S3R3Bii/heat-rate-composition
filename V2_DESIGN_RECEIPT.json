@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-10-31T00:11:56.270954+00:00",
-  "status": "NATIVE_SOURCE_PASS_GROUP_SUPPORT_AND_ANALYSIS_PENDING",
+  "timestamp_utc": "2026-10-31T00:14:40.841813+00:00",
+  "status": "SOURCE_AND_FIXED_SUPPORT_PASS_DEVELOPMENT_PENDING",
   "original_failed_revision": "a4f871a",
   "original_v1_gate": "FAILED_UNCHANGED",
   "source_bytes_already_present": true,
   "source_quality_informed_cohort": true,
   "decomposition_results_seen": false,
-  "source_gate": "native identity/token/reader checks pass; group completeness/positivity and required matched support pending",
+  "source_gate": "native tokens/quarantine and independent SQL/Decimal aggregation/membership pass",
   "release": "pending",
   "grade": 2,
   "review_budget": {
@@ -38,5 +38,17 @@
     "original_v1_gate": "FAILED_UNCHANGED",
     "decomposition_outcomes_computed": false,
     "method": "Independent complete openpyxl identity/context/key scan and whole-plant quarantine; separate lxml raw-token/source-hash reconciliation of every retained cell; Decimal checks of workbook-reader conversion. No production parser or quarantine helper imports."
-  }
+  },
+  "grouping": {
+    "status": "PASS_INDEPENDENT_SQL_DECIMAL_GROUPING_AND_SUPPORT",
+    "source_rows": 27842,
+    "group_rows": 29996,
+    "case_support_rows": 72,
+    "conditions": 540314,
+    "primary_support_failures": 0,
+    "method": "Separate SQLite CASE/grouping, 80-digit Decimal aggregate, independent eligibility and set intersections; no production grouping/decomposition helpers imported",
+    "original_v1_gate": "FAILED_UNCHANGED",
+    "decomposition_outcomes_computed": false
+  },
+  "fixtures": 22
 }
