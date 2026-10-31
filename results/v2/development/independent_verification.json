@@ -1,0 +1,14 @@
+{
+  "status": "PASS_INDEPENDENT_V2_DECOMPOSITIONS",
+  "phase": "development",
+  "conditions": 658242,
+  "cases": 36,
+  "cell_contributions": 36476,
+  "plant_deletions": 9158,
+  "direct_deletion_recomputations": 27,
+  "maximum_absolute_numeric_difference": "3.6363636363636363636E-56",
+  "declared_absolute_tolerance": "1e-45",
+  "independent_precision_digits": 80,
+  "method": "Independent source SQL/Decimal qualification; direct 80-digit per-cell paths, symmetry and outside-cohort bridge; separately reconstructed all-plant subtraction sums plus fixed first/middle/last direct deletions. No production aggregation/decomposition helpers imported.",
+  "original_v1_gate": "FAILED_UNCHANGED"
+}

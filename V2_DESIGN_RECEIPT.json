@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-10-31T00:14:40.841813+00:00",
-  "status": "SOURCE_AND_FIXED_SUPPORT_PASS_DEVELOPMENT_PENDING",
+  "timestamp_utc": "2026-10-31T00:17:14.700666+00:00",
+  "status": "DEVELOPMENT_PASS_FREEZE_AND_HELD_PENDING",
   "original_failed_revision": "a4f871a",
   "original_v1_gate": "FAILED_UNCHANGED",
   "source_bytes_already_present": true,
   "source_quality_informed_cohort": true,
-  "decomposition_results_seen": false,
-  "source_gate": "native tokens/quarantine and independent SQL/Decimal aggregation/membership pass",
+  "decomposition_results_seen": "Development only: 2018\u20132019,2019\u20132020,2020\u20132021; no held outcomes",
+  "source_gate": "PASS_NATIVE_GROUPING_AND_FIXED_SUPPORT",
   "release": "pending",
   "grade": 2,
   "review_budget": {
@@ -50,5 +50,19 @@
     "original_v1_gate": "FAILED_UNCHANGED",
     "decomposition_outcomes_computed": false
   },
-  "fixtures": 22
+  "fixtures": 22,
+  "development": {
+    "status": "PASS_INDEPENDENT_V2_DECOMPOSITIONS",
+    "phase": "development",
+    "conditions": 658242,
+    "cases": 36,
+    "cell_contributions": 36476,
+    "plant_deletions": 9158,
+    "direct_deletion_recomputations": 27,
+    "maximum_absolute_numeric_difference": "3.6363636363636363636E-56",
+    "declared_absolute_tolerance": "1e-45",
+    "independent_precision_digits": 80,
+    "method": "Independent source SQL/Decimal qualification; direct 80-digit per-cell paths, symmetry and outside-cohort bridge; separately reconstructed all-plant subtraction sums plus fixed first/middle/last direct deletions. No production aggregation/decomposition helpers imported.",
+    "original_v1_gate": "FAILED_UNCHANGED"
+  }
 }
