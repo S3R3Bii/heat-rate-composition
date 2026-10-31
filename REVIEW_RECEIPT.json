@@ -1,8 +1,8 @@
 {
-  "timestamp_utc": "2026-10-31T00:31:50.289495+00:00",
-  "version": "Complete local v2 manuscript/figures/replay package before exact remote proof",
-  "status": "INCOMPLETE_REMOTE_RELEASE_PENDING",
-  "grade": 3,
+  "timestamp_utc": "2026-10-31T00:32:46.247695+00:00",
+  "version": "Local ready v2 candidate; exact remote release proof tracked separately",
+  "status": "LOCAL_ACCEPTANCE_PASS_RELEASE_PENDING",
+  "grade": 4,
   "acceptance_criteria": "Preserve original failed source version; specify narrower quarantine before outcomes; reconcile native source and exact grouping/support; independently verify complete fixed paths/bridges/influence and freeze before held results; readable scoped paper/figures and practical offline review; two full-history replays; exact candidate/main CI/tree/tag/metadata.",
   "criteria": {
     "source": {
@@ -42,9 +42,10 @@
       "limitation": "Private complete original workbook verification remains separately hash-bound; current figures/paper checked separately."
     },
     "privacy": {
-      "state": "unknown",
-      "grade": null,
-      "evidence": "Scoped staged/canonical audit pending"
+      "state": "pass",
+      "grade": 4,
+      "evidence": "87-file scoped staged audit and86 exact canonical Git blobs on d375bce; current receipt revision gets a fresh scan.",
+      "limitation": "Bounded exclusions/text patterns, approved independent manuscript hashes and specific source/visual checks; not universal security detection."
     },
     "release": {
       "state": "unknown",
@@ -59,8 +60,8 @@
     "exercise": "pass",
     "presentation": "pass",
     "replay": "pass",
-    "privacy": "unknown",
-    "release": "unknown"
+    "privacy": "pass_bounded_canonical_scan",
+    "release": "pending_exact_remote_proof"
   },
   "review_budget": {
     "round": 3,
@@ -93,5 +94,10 @@
     "paper_bindings_v2.json": "3d439ac34458cec1598ae02d3be292bc220d3242df84bec5d460799d85cef72b",
     "figures/value_map.json": "bf3e19c6dd47c34965bd9b1db82a7fb1b78d18f570c8d2aa131c1ffa97880ba4",
     "data/v2/frozen_dependencies.json": "331eb5ac1d7ab1ba82577c18e1f674d7dcc21bac145b663b1cb92512736639af"
+  },
+  "scope": "Finite local artifact acceptance. Release additionally requires exact candidate/main Linux success, identical tested/merged tree, annotated remote tag and synchronized metadata; those gates remain pending.",
+  "release_evidence": {
+    "state": "PENDING_EXACT_REMOTE_CHECKS",
+    "pull_request": "https://github.com/S3R3Bii/heat-rate-composition/pull/2"
   }
 }
