@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-31T00:14:43.005400+00:00",
+  "timestamp_utc": "2026-10-31T00:16:33.924273+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 32,
+  "files_checked": 35,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -9,6 +9,7 @@
     ".gitignore": "6ebd24c38360605809e3cce7e99dcf9b20b4dfc77fb8e8690a8535d7a5283c54",
     "DATA_RIGHTS.md": "53e7847c3133655bc265cfda3afce13ccd7fb3eabeb9acca7be2f6e265f48aa9",
     "LICENSE": "50f2b87a420b77483510c10a57a9b2238230f367e4040108d85b8f20c571d746",
+    "METHODS_V2.md": "82236dd7e928f00bce37ea6568cb4c26108cff9f806240de0c7ab594603e088e",
     "PROTOCOL.md": "228d1eb472ad0a4d16e659b1fa2e95995c9daf8f8f5314e5816e2de244d83fed",
     "PROTOCOL_V2.md": "624b136d3a518261bc23f298775dc93bb3edb048f4fd347bd0262cc63b2f92ce",
     "README.md": "bc5473f19fc26704726d67416064c64b64ff4a993e10a57e23f16be1f720485f",
@@ -29,11 +30,13 @@
     "protocol.json": "52258b1019d0e25ad1a8e7d4479426862e5628c5dcf92b5eb4b73bca6b2c4572",
     "protocol_v2.json": "2036cd84fd4fa022c3e41a4c376248aeebcdf9fb7972360bd19dfe6f7adc0485",
     "results/SOURCE_FAILURE.json": "4edeb1f252611a1221fc4431c8c9bd177126229bd73292301e7c0629a24d1c7f",
+    "src/analyze_v2.py": "0d10f33f6998cb7d3d48c2d673c92b91c5396ad60985bfb3038d0f59816b3c0b",
     "src/decompose_v2.py": "08e43bc06b1160d4171049685c1d375b91f300c47830d64f550fda1a131d4480",
     "src/ingest.py": "f621d3981a6fe71cb96afe194267834fa68198aeac85bfa455e9e69b85c13fad",
     "src/ingest_v2.py": "6be0283adfa205238fbca65b55c173364b6abedba4f0b85ee1f95713dd0f2ffe",
     "src/qualify_v2.py": "e35c8a60522f60f720baac3a193ce31fcde22440f8cc8d74713ca7b30be0775f",
     "src/verify_grouping_v2.py": "debae34df2352f7a7f4d30131645ed10b8b5600ce40e6596b17e4ccf063ada68",
+    "src/verify_results_v2.py": "eb17b73f4b803d4e89ecd7a58285142c30847bed562a272a74cecd018c2042d4",
     "src/verify_source_v2.py": "6d3834b6e65ebaeaf13cb312a303849faa4ad1e97080fd211c47b2cf51f8d74a",
     "tests/test_v2_math.py": "0880a62e470f2d42ba6d92eb5a780bdd83346bb196df2bea6613a104b7b56446"
   },
