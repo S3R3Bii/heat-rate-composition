@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-10-31T00:06:01.403171+00:00",
+  "status": "DESIGN_ONLY_BEFORE_DECOMPOSITION",
+  "original_failed_revision": "a4f871a",
+  "original_v1_gate": "FAILED_UNCHANGED",
+  "source_bytes_already_present": true,
+  "source_quality_informed_cohort": true,
+  "decomposition_results_seen": false,
+  "source_gate": "pending_native_quarantine_and_reconciliation",
+  "release": "pending",
+  "grade": 2,
+  "review_budget": {
+    "round": 2,
+    "interpretation": "Original source failure is historical round1; combined v2 source/development produce/check is round2; final/presentation phase is round3. No reset of prior review work.",
+    "max_rounds": 3,
+    "max_active_review_minutes": 45,
+    "max_review_tool_calls": 60
+  }
+}
