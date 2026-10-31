@@ -1,0 +1,11 @@
+{
+  "status": "PASS_SOURCE_BOUND_VALUES_AND_ACTUAL_SVG",
+  "figures": 3,
+  "mapped_source_values_and_positions": 297,
+  "svg_coordinates": 1236,
+  "individual_numeric_labels": 156,
+  "source_bound_cell_colors": 72,
+  "file_hashes": 9,
+  "coverage": "Latest three-fleet bridge; all72 within/mix case cells; both components for all18 primary finite plant-influence ranges",
+  "limitation": "Specific source/value/geometry/color/label checks plus separate visual review; no universal correctness or accessibility-conformance claim."
+}

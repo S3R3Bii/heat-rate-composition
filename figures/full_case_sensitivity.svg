@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="633.6pt" height="583.2pt" viewBox="0 0 633.6 583.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 583.2
+L 633.6 583.2
+L 633.6 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="data-area-0">
+    <path d="M 158.4 191.670923
+L 620.928 191.670923
+L 620.928 99.144
+L 158.4 99.144
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="sensitivity-0-0-0">
+    <path d="M 158.4 99.144
+L 235.488 99.144
+L 235.488 122.275731
+L 158.4 122.275731
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf1f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-0-1">
+    <path d="M 235.488 99.144
+L 312.576 99.144
+L 312.576 122.275731
+L 235.488 122.275731
+z
+" clip-path="url(#p641e66ef15)" style="fill: #e6edef; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-0-2">
+    <path d="M 312.576 99.144
+L 389.664 99.144
+L 389.664 122.275731
+L 312.576 122.275731
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f4ebe9; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-0-3">
+    <path d="M 389.664 99.144
+L 466.752 99.144
+L 466.752 122.275731
+L 389.664 122.275731
+z
+" clip-path="url(#p641e66ef15)" style="fill: #eef2f3; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-0-4">
+    <path d="M 466.752 99.144
+L 543.84 99.144
+L 543.84 122.275731
+L 466.752 122.275731
+z
+" clip-path="url(#p641e66ef15)" style="fill: #ecf1f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-0-5">
+    <path d="M 543.84 99.144
+L 620.928 99.144
+L 620.928 122.275731
+L 543.84 122.275731
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f5f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-1-0">
+    <path d="M 158.4 122.275731
+L 235.488 122.275731
+L 235.488 145.407462
+L 158.4 145.407462
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf2f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-1-1">
+    <path d="M 235.488 122.275731
+L 312.576 122.275731
+L 312.576 145.407462
+L 235.488 145.407462
+z
+" clip-path="url(#p641e66ef15)" style="fill: #e8eef0; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-1-2">
+    <path d="M 312.576 122.275731
+L 389.664 122.275731
+L 389.664 145.407462
+L 312.576 145.407462
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f4ece9; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-1-3">
+    <path d="M 389.664 122.275731
+L 466.752 122.275731
+L 466.752 145.407462
+L 389.664 145.407462
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf2f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-1-4">
+    <path d="M 466.752 122.275731
+L 543.84 122.275731
+L 543.84 145.407462
+L 466.752 145.407462
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf2f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-1-5">
+    <path d="M 543.84 122.275731
+L 620.928 122.275731
+L 620.928 145.407462
+L 543.84 145.407462
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f5f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-2-0">
+    <path d="M 158.4 145.407462
+L 235.488 145.407462
+L 235.488 168.539192
+L 158.4 168.539192
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf1f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-2-1">
+    <path d="M 235.488 145.407462
+L 312.576 145.407462
+L 312.576 168.539192
+L 235.488 168.539192
+z
+" clip-path="url(#p641e66ef15)" style="fill: #e6edef; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-2-2">
+    <path d="M 312.576 145.407462
+L 389.664 145.407462
+L 389.664 168.539192
+L 312.576 168.539192
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f4ebe9; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-2-3">
+    <path d="M 389.664 145.407462
+L 466.752 145.407462
+L 466.752 168.539192
+L 389.664 168.539192
+z
+" clip-path="url(#p641e66ef15)" style="fill: #eef2f3; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-2-4">
+    <path d="M 466.752 145.407462
+L 543.84 145.407462
+L 543.84 168.539192
+L 466.752 168.539192
+z
+" clip-path="url(#p641e66ef15)" style="fill: #ecf1f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-2-5">
+    <path d="M 543.84 145.407462
+L 620.928 145.407462
+L 620.928 168.539192
+L 543.84 168.539192
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f5f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-3-0">
+    <path d="M 158.4 168.539192
+L 235.488 168.539192
+L 235.488 191.670923
+L 158.4 191.670923
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf2f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-3-1">
+    <path d="M 235.488 168.539192
+L 312.576 168.539192
+L 312.576 191.670923
+L 235.488 191.670923
+z
+" clip-path="url(#p641e66ef15)" style="fill: #e8eef0; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-3-2">
+    <path d="M 312.576 168.539192
+L 389.664 168.539192
+L 389.664 191.670923
+L 312.576 191.670923
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f4ece9; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-3-3">
+    <path d="M 389.664 168.539192
+L 466.752 168.539192
+L 466.752 191.670923
+L 389.664 191.670923
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf2f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-3-4">
+    <path d="M 466.752 168.539192
+L 543.84 168.539192
+L 543.84 191.670923
+L 466.752 191.670923
+z
+" clip-path="url(#p641e66ef15)" style="fill: #edf2f2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-0-3-5">
+    <path d="M 543.84 168.539192
+L 620.928 168.539192
+L 620.928 191.670923
+L 543.84 191.670923
+z
+" clip-path="url(#p641e66ef15)" style="fill: #f5f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="196.944" y="201.249673" transform="rotate(-0 196.944 201.249673)">2018–19</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="274.032" y="201.249673" transform="rotate(-0 274.032 201.249673)">2019–20</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="351.12" y="201.249673" transform="rotate(-0 351.12 201.249673)">2020–21</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="428.208" y="201.249673" transform="rotate(-0 428.208 201.249673)">2021–22</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="505.296" y="201.249673" transform="rotate(-0 505.296 201.249673)">2022–23</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="582.384" y="201.249673" transform="rotate(-0 582.384 201.249673)">2023–24</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="113.74924" transform="rotate(-0 154.9 113.74924)">Plant/fuel · pair</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="136.880971" transform="rotate(-0 154.9 136.880971)">Plant/fuel · balanced</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="160.012702" transform="rotate(-0 154.9 160.012702)">Plant/tech/fuel · pair</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="183.144433" transform="rotate(-0 154.9 183.144433)">Plant/tech/fuel · balanced</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_2">
+    <path d="M 158.4 191.670923
+L 158.4 99.144
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 158.4 191.670923
+L 620.928 191.670923
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="sensitivity-0-0-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="109.553279" transform="rotate(-0 196.944 109.553279)">W+0.12</text>
+   </g>
+   <g id="sensitivity-0-0-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="117.649385" transform="rotate(-0 196.944 117.649385)">M-0.05</text>
+   </g>
+   <g id="sensitivity-0-0-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="109.553279" transform="rotate(-0 274.032 109.553279)">W+0.19</text>
+   </g>
+   <g id="sensitivity-0-0-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="117.649385" transform="rotate(-0 274.032 117.649385)">M-0.06</text>
+   </g>
+   <g id="sensitivity-0-0-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="109.553279" transform="rotate(-0 351.12 109.553279)">W-0.14</text>
+   </g>
+   <g id="sensitivity-0-0-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="117.649385" transform="rotate(-0 351.12 117.649385)">M+0.07</text>
+   </g>
+   <g id="sensitivity-0-0-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="109.553279" transform="rotate(-0 428.208 109.553279)">W+0.10</text>
+   </g>
+   <g id="sensitivity-0-0-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="117.649385" transform="rotate(-0 428.208 117.649385)">M+0.02</text>
+   </g>
+   <g id="sensitivity-0-0-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="109.553279" transform="rotate(-0 505.296 109.553279)">W+0.12</text>
+   </g>
+   <g id="sensitivity-0-0-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="117.649385" transform="rotate(-0 505.296 117.649385)">M-0.05</text>
+   </g>
+   <g id="sensitivity-0-0-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="109.553279" transform="rotate(-0 582.384 109.553279)">W+0.04</text>
+   </g>
+   <g id="sensitivity-0-0-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="117.649385" transform="rotate(-0 582.384 117.649385)">M-0.01</text>
+   </g>
+   <g id="sensitivity-0-1-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="132.68501" transform="rotate(-0 196.944 132.68501)">W+0.11</text>
+   </g>
+   <g id="sensitivity-0-1-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="140.781115" transform="rotate(-0 196.944 140.781115)">M-0.03</text>
+   </g>
+   <g id="sensitivity-0-1-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="132.68501" transform="rotate(-0 274.032 132.68501)">W+0.17</text>
+   </g>
+   <g id="sensitivity-0-1-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="140.781115" transform="rotate(-0 274.032 140.781115)">M-0.04</text>
+   </g>
+   <g id="sensitivity-0-1-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="132.68501" transform="rotate(-0 351.12 132.68501)">W-0.13</text>
+   </g>
+   <g id="sensitivity-0-1-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="140.781115" transform="rotate(-0 351.12 140.781115)">M+0.06</text>
+   </g>
+   <g id="sensitivity-0-1-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="132.68501" transform="rotate(-0 428.208 132.68501)">W+0.11</text>
+   </g>
+   <g id="sensitivity-0-1-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="140.781115" transform="rotate(-0 428.208 140.781115)">M+0.03</text>
+   </g>
+   <g id="sensitivity-0-1-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="132.68501" transform="rotate(-0 505.296 132.68501)">W+0.12</text>
+   </g>
+   <g id="sensitivity-0-1-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="140.781115" transform="rotate(-0 505.296 140.781115)">M-0.05</text>
+   </g>
+   <g id="sensitivity-0-1-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="132.68501" transform="rotate(-0 582.384 132.68501)">W+0.04</text>
+   </g>
+   <g id="sensitivity-0-1-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="140.781115" transform="rotate(-0 582.384 140.781115)">M-0.01</text>
+   </g>
+   <g id="sensitivity-0-2-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="155.81674" transform="rotate(-0 196.944 155.81674)">W+0.12</text>
+   </g>
+   <g id="sensitivity-0-2-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="163.912846" transform="rotate(-0 196.944 163.912846)">M-0.05</text>
+   </g>
+   <g id="sensitivity-0-2-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="155.81674" transform="rotate(-0 274.032 155.81674)">W+0.19</text>
+   </g>
+   <g id="sensitivity-0-2-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="163.912846" transform="rotate(-0 274.032 163.912846)">M-0.06</text>
+   </g>
+   <g id="sensitivity-0-2-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="155.81674" transform="rotate(-0 351.12 155.81674)">W-0.14</text>
+   </g>
+   <g id="sensitivity-0-2-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="163.912846" transform="rotate(-0 351.12 163.912846)">M+0.07</text>
+   </g>
+   <g id="sensitivity-0-2-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="155.81674" transform="rotate(-0 428.208 155.81674)">W+0.10</text>
+   </g>
+   <g id="sensitivity-0-2-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="163.912846" transform="rotate(-0 428.208 163.912846)">M+0.02</text>
+   </g>
+   <g id="sensitivity-0-2-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="155.81674" transform="rotate(-0 505.296 155.81674)">W+0.12</text>
+   </g>
+   <g id="sensitivity-0-2-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="163.912846" transform="rotate(-0 505.296 163.912846)">M-0.05</text>
+   </g>
+   <g id="sensitivity-0-2-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="155.81674" transform="rotate(-0 582.384 155.81674)">W+0.04</text>
+   </g>
+   <g id="sensitivity-0-2-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="163.912846" transform="rotate(-0 582.384 163.912846)">M-0.01</text>
+   </g>
+   <g id="sensitivity-0-3-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="178.948471" transform="rotate(-0 196.944 178.948471)">W+0.11</text>
+   </g>
+   <g id="sensitivity-0-3-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="187.044577" transform="rotate(-0 196.944 187.044577)">M-0.03</text>
+   </g>
+   <g id="sensitivity-0-3-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="178.948471" transform="rotate(-0 274.032 178.948471)">W+0.17</text>
+   </g>
+   <g id="sensitivity-0-3-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="187.044577" transform="rotate(-0 274.032 187.044577)">M-0.04</text>
+   </g>
+   <g id="sensitivity-0-3-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="178.948471" transform="rotate(-0 351.12 178.948471)">W-0.13</text>
+   </g>
+   <g id="sensitivity-0-3-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="187.044577" transform="rotate(-0 351.12 187.044577)">M+0.06</text>
+   </g>
+   <g id="sensitivity-0-3-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="178.948471" transform="rotate(-0 428.208 178.948471)">W+0.11</text>
+   </g>
+   <g id="sensitivity-0-3-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="187.044577" transform="rotate(-0 428.208 187.044577)">M+0.03</text>
+   </g>
+   <g id="sensitivity-0-3-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="178.948471" transform="rotate(-0 505.296 178.948471)">W+0.12</text>
+   </g>
+   <g id="sensitivity-0-3-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="187.044577" transform="rotate(-0 505.296 187.044577)">M-0.05</text>
+   </g>
+   <g id="sensitivity-0-3-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="178.948471" transform="rotate(-0 582.384 178.948471)">W+0.04</text>
+   </g>
+   <g id="sensitivity-0-3-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="187.044577" transform="rotate(-0 582.384 187.044577)">M-0.01</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203d4b" x="158.4" y="93.144" transform="rotate(-0 158.4 93.144)">Coal</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="data-area-1">
+    <path d="M 158.4 337.863462
+L 620.928 337.863462
+L 620.928 245.336538
+L 158.4 245.336538
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="sensitivity-1-0-0">
+    <path d="M 158.4 245.336538
+L 235.488 245.336538
+L 235.488 268.468269
+L 158.4 268.468269
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f8f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-0-1">
+    <path d="M 235.488 245.336538
+L 312.576 245.336538
+L 312.576 268.468269
+L 235.488 268.468269
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f9f7; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-0-2">
+    <path d="M 312.576 245.336538
+L 389.664 245.336538
+L 389.664 268.468269
+L 312.576 268.468269
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #e8eef0; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-0-3">
+    <path d="M 389.664 245.336538
+L 466.752 245.336538
+L 466.752 268.468269
+L 389.664 268.468269
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #dbaea9; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-0-4">
+    <path d="M 466.752 245.336538
+L 543.84 245.336538
+L 543.84 268.468269
+L 466.752 268.468269
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f8f7f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-0-5">
+    <path d="M 543.84 245.336538
+L 620.928 245.336538
+L 620.928 268.468269
+L 543.84 268.468269
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f7f3f1; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-1-0">
+    <path d="M 158.4 268.468269
+L 235.488 268.468269
+L 235.488 291.6
+L 158.4 291.6
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f8f8f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-1-1">
+    <path d="M 235.488 268.468269
+L 312.576 268.468269
+L 312.576 291.6
+L 235.488 291.6
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f9f7; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-1-2">
+    <path d="M 312.576 268.468269
+L 389.664 268.468269
+L 389.664 291.6
+L 312.576 291.6
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #e7eeef; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-1-3">
+    <path d="M 389.664 268.468269
+L 466.752 268.468269
+L 466.752 291.6
+L 389.664 291.6
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #d8a7a2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-1-4">
+    <path d="M 466.752 268.468269
+L 543.84 268.468269
+L 543.84 291.6
+L 466.752 291.6
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f8f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-1-5">
+    <path d="M 543.84 268.468269
+L 620.928 268.468269
+L 620.928 291.6
+L 543.84 291.6
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f6f2f0; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-2-0">
+    <path d="M 158.4 291.6
+L 235.488 291.6
+L 235.488 314.731731
+L 158.4 314.731731
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f9f7; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-2-1">
+    <path d="M 235.488 291.6
+L 312.576 291.6
+L 312.576 314.731731
+L 235.488 314.731731
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f8f8f7; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-2-2">
+    <path d="M 312.576 291.6
+L 389.664 291.6
+L 389.664 314.731731
+L 312.576 314.731731
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #e8eef0; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-2-3">
+    <path d="M 389.664 291.6
+L 466.752 291.6
+L 466.752 314.731731
+L 389.664 314.731731
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #dcafaa; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-2-4">
+    <path d="M 466.752 291.6
+L 543.84 291.6
+L 543.84 314.731731
+L 466.752 314.731731
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f8f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-2-5">
+    <path d="M 543.84 291.6
+L 620.928 291.6
+L 620.928 314.731731
+L 543.84 314.731731
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f7f3f1; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-3-0">
+    <path d="M 158.4 314.731731
+L 235.488 314.731731
+L 235.488 337.863462
+L 158.4 337.863462
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f8f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-3-1">
+    <path d="M 235.488 314.731731
+L 312.576 314.731731
+L 312.576 337.863462
+L 235.488 337.863462
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f8f8f7; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-3-2">
+    <path d="M 312.576 314.731731
+L 389.664 314.731731
+L 389.664 337.863462
+L 312.576 337.863462
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #e7eeef; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-3-3">
+    <path d="M 389.664 314.731731
+L 466.752 314.731731
+L 466.752 337.863462
+L 389.664 337.863462
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #d8a7a2; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-3-4">
+    <path d="M 466.752 314.731731
+L 543.84 314.731731
+L 543.84 337.863462
+L 466.752 337.863462
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f9f9f7; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-1-3-5">
+    <path d="M 543.84 314.731731
+L 620.928 314.731731
+L 620.928 337.863462
+L 543.84 337.863462
+z
+" clip-path="url(#p9e585e9e5b)" style="fill: #f6f2f0; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_7">
+     <g id="line2d_11"/>
+     <g id="text_12">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="196.944" y="347.442212" transform="rotate(-0 196.944 347.442212)">2018–19</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_12"/>
+     <g id="text_13">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="274.032" y="347.442212" transform="rotate(-0 274.032 347.442212)">2019–20</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_13"/>
+     <g id="text_14">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="351.12" y="347.442212" transform="rotate(-0 351.12 347.442212)">2020–21</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_14"/>
+     <g id="text_15">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="428.208" y="347.442212" transform="rotate(-0 428.208 347.442212)">2021–22</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_15"/>
+     <g id="text_16">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="505.296" y="347.442212" transform="rotate(-0 505.296 347.442212)">2022–23</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_16"/>
+     <g id="text_17">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="582.384" y="347.442212" transform="rotate(-0 582.384 347.442212)">2023–24</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_5">
+     <g id="line2d_17"/>
+     <g id="text_18">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="259.941779" transform="rotate(-0 154.9 259.941779)">Plant/fuel · pair</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_18"/>
+     <g id="text_19">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="283.07351" transform="rotate(-0 154.9 283.07351)">Plant/fuel · balanced</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_19"/>
+     <g id="text_20">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="306.20524" transform="rotate(-0 154.9 306.20524)">Plant/tech/fuel · pair</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_20"/>
+     <g id="text_21">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="329.336971" transform="rotate(-0 154.9 329.336971)">Plant/tech/fuel · balanced</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_4">
+    <path d="M 158.4 337.863462
+L 158.4 245.336538
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 158.4 337.863462
+L 620.928 337.863462
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="sensitivity-1-0-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="255.745817" transform="rotate(-0 196.944 255.745817)">W-0.01</text>
+   </g>
+   <g id="sensitivity-1-0-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="263.841923" transform="rotate(-0 196.944 263.841923)">M-0.06</text>
+   </g>
+   <g id="sensitivity-1-0-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="255.745817" transform="rotate(-0 274.032 255.745817)">W+0.00</text>
+   </g>
+   <g id="sensitivity-1-0-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="263.841923" transform="rotate(-0 274.032 263.841923)">M+0.01</text>
+   </g>
+   <g id="sensitivity-1-0-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="255.745817" transform="rotate(-0 351.12 255.745817)">W+0.17</text>
+   </g>
+   <g id="sensitivity-1-0-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="263.841923" transform="rotate(-0 351.12 263.841923)">M-0.19</text>
+   </g>
+   <g id="sensitivity-1-0-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="255.745817" transform="rotate(-0 428.208 255.745817)">W-0.77</text>
+   </g>
+   <g id="sensitivity-1-0-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="263.841923" transform="rotate(-0 428.208 263.841923)">M+0.83</text>
+   </g>
+   <g id="sensitivity-1-0-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="255.745817" transform="rotate(-0 505.296 255.745817)">W-0.02</text>
+   </g>
+   <g id="sensitivity-1-0-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="263.841923" transform="rotate(-0 505.296 263.841923)">M+0.01</text>
+   </g>
+   <g id="sensitivity-1-0-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="255.745817" transform="rotate(-0 582.384 255.745817)">W-0.06</text>
+   </g>
+   <g id="sensitivity-1-0-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="263.841923" transform="rotate(-0 582.384 263.841923)">M+0.09</text>
+   </g>
+   <g id="sensitivity-1-1-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="278.877548" transform="rotate(-0 196.944 278.877548)">W-0.01</text>
+   </g>
+   <g id="sensitivity-1-1-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="286.973654" transform="rotate(-0 196.944 286.973654)">M-0.06</text>
+   </g>
+   <g id="sensitivity-1-1-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="278.877548" transform="rotate(-0 274.032 278.877548)">W+0.00</text>
+   </g>
+   <g id="sensitivity-1-1-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="286.973654" transform="rotate(-0 274.032 286.973654)">M+0.02</text>
+   </g>
+   <g id="sensitivity-1-1-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="278.877548" transform="rotate(-0 351.12 278.877548)">W+0.18</text>
+   </g>
+   <g id="sensitivity-1-1-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="286.973654" transform="rotate(-0 351.12 286.973654)">M-0.20</text>
+   </g>
+   <g id="sensitivity-1-1-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="278.877548" transform="rotate(-0 428.208 278.877548)">W-0.83</text>
+   </g>
+   <g id="sensitivity-1-1-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="286.973654" transform="rotate(-0 428.208 286.973654)">M+0.90</text>
+   </g>
+   <g id="sensitivity-1-1-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="278.877548" transform="rotate(-0 505.296 278.877548)">W-0.01</text>
+   </g>
+   <g id="sensitivity-1-1-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="286.973654" transform="rotate(-0 505.296 286.973654)">M+0.02</text>
+   </g>
+   <g id="sensitivity-1-1-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="278.877548" transform="rotate(-0 582.384 278.877548)">W-0.07</text>
+   </g>
+   <g id="sensitivity-1-1-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="286.973654" transform="rotate(-0 582.384 286.973654)">M+0.10</text>
+   </g>
+   <g id="sensitivity-1-2-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="302.009279" transform="rotate(-0 196.944 302.009279)">W+0.00</text>
+   </g>
+   <g id="sensitivity-1-2-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="310.105385" transform="rotate(-0 196.944 310.105385)">M-0.06</text>
+   </g>
+   <g id="sensitivity-1-2-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="302.009279" transform="rotate(-0 274.032 302.009279)">W+0.01</text>
+   </g>
+   <g id="sensitivity-1-2-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="310.105385" transform="rotate(-0 274.032 310.105385)">M+0.00</text>
+   </g>
+   <g id="sensitivity-1-2-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="302.009279" transform="rotate(-0 351.12 302.009279)">W+0.16</text>
+   </g>
+   <g id="sensitivity-1-2-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="310.105385" transform="rotate(-0 351.12 310.105385)">M-0.19</text>
+   </g>
+   <g id="sensitivity-1-2-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="302.009279" transform="rotate(-0 428.208 302.009279)">W-0.76</text>
+   </g>
+   <g id="sensitivity-1-2-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="310.105385" transform="rotate(-0 428.208 310.105385)">M+0.81</text>
+   </g>
+   <g id="sensitivity-1-2-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="302.009279" transform="rotate(-0 505.296 302.009279)">W-0.01</text>
+   </g>
+   <g id="sensitivity-1-2-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="310.105385" transform="rotate(-0 505.296 310.105385)">M+0.01</text>
+   </g>
+   <g id="sensitivity-1-2-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="302.009279" transform="rotate(-0 582.384 302.009279)">W-0.06</text>
+   </g>
+   <g id="sensitivity-1-2-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="310.105385" transform="rotate(-0 582.384 310.105385)">M+0.09</text>
+   </g>
+   <g id="sensitivity-1-3-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="325.14101" transform="rotate(-0 196.944 325.14101)">W-0.01</text>
+   </g>
+   <g id="sensitivity-1-3-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="333.237115" transform="rotate(-0 196.944 333.237115)">M-0.06</text>
+   </g>
+   <g id="sensitivity-1-3-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="325.14101" transform="rotate(-0 274.032 325.14101)">W+0.01</text>
+   </g>
+   <g id="sensitivity-1-3-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="333.237115" transform="rotate(-0 274.032 333.237115)">M+0.01</text>
+   </g>
+   <g id="sensitivity-1-3-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="325.14101" transform="rotate(-0 351.12 325.14101)">W+0.18</text>
+   </g>
+   <g id="sensitivity-1-3-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="333.237115" transform="rotate(-0 351.12 333.237115)">M-0.20</text>
+   </g>
+   <g id="sensitivity-1-3-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="325.14101" transform="rotate(-0 428.208 325.14101)">W-0.84</text>
+   </g>
+   <g id="sensitivity-1-3-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="333.237115" transform="rotate(-0 428.208 333.237115)">M+0.90</text>
+   </g>
+   <g id="sensitivity-1-3-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="325.14101" transform="rotate(-0 505.296 325.14101)">W+0.00</text>
+   </g>
+   <g id="sensitivity-1-3-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="333.237115" transform="rotate(-0 505.296 333.237115)">M+0.02</text>
+   </g>
+   <g id="sensitivity-1-3-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="325.14101" transform="rotate(-0 582.384 325.14101)">W-0.07</text>
+   </g>
+   <g id="sensitivity-1-3-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="333.237115" transform="rotate(-0 582.384 333.237115)">M+0.10</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203d4b" x="158.4" y="239.336538" transform="rotate(-0 158.4 239.336538)">Natural gas</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="data-area-2">
+    <path d="M 158.4 484.056
+L 620.928 484.056
+L 620.928 391.529077
+L 158.4 391.529077
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="sensitivity-2-0-0">
+    <path d="M 158.4 391.529077
+L 235.488 391.529077
+L 235.488 414.660808
+L 158.4 414.660808
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f4f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-0-1">
+    <path d="M 235.488 391.529077
+L 312.576 391.529077
+L 312.576 414.660808
+L 235.488 414.660808
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f2f5f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-0-2">
+    <path d="M 312.576 391.529077
+L 389.664 391.529077
+L 389.664 414.660808
+L 312.576 414.660808
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f3f5f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-0-3">
+    <path d="M 389.664 391.529077
+L 466.752 391.529077
+L 466.752 414.660808
+L 389.664 414.660808
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #e7ccc8; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-0-4">
+    <path d="M 466.752 391.529077
+L 543.84 391.529077
+L 543.84 414.660808
+L 466.752 414.660808
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f6f7f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-0-5">
+    <path d="M 543.84 391.529077
+L 620.928 391.529077
+L 620.928 414.660808
+L 543.84 414.660808
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f8f6f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-1-0">
+    <path d="M 158.4 414.660808
+L 235.488 414.660808
+L 235.488 437.792538
+L 158.4 437.792538
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f5f7f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-1-1">
+    <path d="M 235.488 414.660808
+L 312.576 414.660808
+L 312.576 437.792538
+L 235.488 437.792538
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f3f5f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-1-2">
+    <path d="M 312.576 414.660808
+L 389.664 414.660808
+L 389.664 437.792538
+L 312.576 437.792538
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f2f5f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-1-3">
+    <path d="M 389.664 414.660808
+L 466.752 414.660808
+L 466.752 437.792538
+L 389.664 437.792538
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #e6c8c4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-1-4">
+    <path d="M 466.752 414.660808
+L 543.84 414.660808
+L 543.84 437.792538
+L 466.752 437.792538
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f5f7f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-1-5">
+    <path d="M 543.84 414.660808
+L 620.928 414.660808
+L 620.928 437.792538
+L 543.84 437.792538
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f8f5f3; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-2-0">
+    <path d="M 158.4 437.792538
+L 235.488 437.792538
+L 235.488 460.924269
+L 158.4 460.924269
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f4f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-2-1">
+    <path d="M 235.488 437.792538
+L 312.576 437.792538
+L 312.576 460.924269
+L 235.488 460.924269
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f1f4f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-2-2">
+    <path d="M 312.576 437.792538
+L 389.664 437.792538
+L 389.664 460.924269
+L 312.576 460.924269
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f3f5f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-2-3">
+    <path d="M 389.664 437.792538
+L 466.752 437.792538
+L 466.752 460.924269
+L 389.664 460.924269
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #e7cdc9; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-2-4">
+    <path d="M 466.752 437.792538
+L 543.84 437.792538
+L 543.84 460.924269
+L 466.752 460.924269
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f6f7f6; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-2-5">
+    <path d="M 543.84 437.792538
+L 620.928 437.792538
+L 620.928 460.924269
+L 543.84 460.924269
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f8f6f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-3-0">
+    <path d="M 158.4 460.924269
+L 235.488 460.924269
+L 235.488 484.056
+L 158.4 484.056
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f5f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-3-1">
+    <path d="M 235.488 460.924269
+L 312.576 460.924269
+L 312.576 484.056
+L 235.488 484.056
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f2f5f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-3-2">
+    <path d="M 312.576 460.924269
+L 389.664 460.924269
+L 389.664 484.056
+L 312.576 484.056
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f2f5f4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-3-3">
+    <path d="M 389.664 460.924269
+L 466.752 460.924269
+L 466.752 484.056
+L 389.664 484.056
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #e6c8c4; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-3-4">
+    <path d="M 466.752 460.924269
+L 543.84 460.924269
+L 543.84 484.056
+L 466.752 484.056
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f5f6f5; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="sensitivity-2-3-5">
+    <path d="M 543.84 460.924269
+L 620.928 460.924269
+L 620.928 484.056
+L 543.84 484.056
+z
+" clip-path="url(#p062ad70bbc)" style="fill: #f8f5f3; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_13">
+     <g id="line2d_21"/>
+     <g id="text_23">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="196.944" y="493.63475" transform="rotate(-0 196.944 493.63475)">2018–19</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_22"/>
+     <g id="text_24">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="274.032" y="493.63475" transform="rotate(-0 274.032 493.63475)">2019–20</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_23"/>
+     <g id="text_25">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="351.12" y="493.63475" transform="rotate(-0 351.12 493.63475)">2020–21</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_24"/>
+     <g id="text_26">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="428.208" y="493.63475" transform="rotate(-0 428.208 493.63475)">2021–22</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_25"/>
+     <g id="text_27">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="505.296" y="493.63475" transform="rotate(-0 505.296 493.63475)">2022–23</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_26"/>
+     <g id="text_28">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle" x="582.384" y="493.63475" transform="rotate(-0 582.384 493.63475)">2023–24</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_9">
+     <g id="line2d_27"/>
+     <g id="text_29">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="406.134317" transform="rotate(-0 154.9 406.134317)">Plant/fuel · pair</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_28"/>
+     <g id="text_30">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="429.266048" transform="rotate(-0 154.9 429.266048)">Plant/fuel · balanced</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_29"/>
+     <g id="text_31">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="452.397779" transform="rotate(-0 154.9 452.397779)">Plant/tech/fuel · pair</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_30"/>
+     <g id="text_32">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end" x="154.9" y="475.52951" transform="rotate(-0 154.9 475.52951)">Plant/tech/fuel · balanced</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 158.4 484.056
+L 158.4 391.529077
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 158.4 484.056
+L 620.928 484.056
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="sensitivity-2-0-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="401.938356" transform="rotate(-0 196.944 401.938356)">W+0.05</text>
+   </g>
+   <g id="sensitivity-2-0-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="410.034462" transform="rotate(-0 196.944 410.034462)">M-0.21</text>
+   </g>
+   <g id="sensitivity-2-0-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="401.938356" transform="rotate(-0 274.032 401.938356)">W+0.07</text>
+   </g>
+   <g id="sensitivity-2-0-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="410.034462" transform="rotate(-0 274.032 410.034462)">M-0.17</text>
+   </g>
+   <g id="sensitivity-2-0-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="401.938356" transform="rotate(-0 351.12 401.938356)">W+0.06</text>
+   </g>
+   <g id="sensitivity-2-0-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="410.034462" transform="rotate(-0 351.12 410.034462)">M+0.04</text>
+   </g>
+   <g id="sensitivity-2-0-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="401.938356" transform="rotate(-0 428.208 401.938356)">W-0.46</text>
+   </g>
+   <g id="sensitivity-2-0-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="410.034462" transform="rotate(-0 428.208 410.034462)">M+0.45</text>
+   </g>
+   <g id="sensitivity-2-0-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="401.938356" transform="rotate(-0 505.296 401.938356)">W+0.03</text>
+   </g>
+   <g id="sensitivity-2-0-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="410.034462" transform="rotate(-0 505.296 410.034462)">M-0.16</text>
+   </g>
+   <g id="sensitivity-2-0-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="401.938356" transform="rotate(-0 582.384 401.938356)">W-0.03</text>
+   </g>
+   <g id="sensitivity-2-0-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="410.034462" transform="rotate(-0 582.384 410.034462)">M+0.03</text>
+   </g>
+   <g id="sensitivity-2-1-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="425.070087" transform="rotate(-0 196.944 425.070087)">W+0.04</text>
+   </g>
+   <g id="sensitivity-2-1-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="433.166192" transform="rotate(-0 196.944 433.166192)">M-0.19</text>
+   </g>
+   <g id="sensitivity-2-1-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="425.070087" transform="rotate(-0 274.032 425.070087)">W+0.06</text>
+   </g>
+   <g id="sensitivity-2-1-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="433.166192" transform="rotate(-0 274.032 433.166192)">M-0.13</text>
+   </g>
+   <g id="sensitivity-2-1-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="425.070087" transform="rotate(-0 351.12 425.070087)">W+0.07</text>
+   </g>
+   <g id="sensitivity-2-1-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="433.166192" transform="rotate(-0 351.12 433.166192)">M+0.03</text>
+   </g>
+   <g id="sensitivity-2-1-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="425.070087" transform="rotate(-0 428.208 425.070087)">W-0.50</text>
+   </g>
+   <g id="sensitivity-2-1-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="433.166192" transform="rotate(-0 428.208 433.166192)">M+0.51</text>
+   </g>
+   <g id="sensitivity-2-1-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="425.070087" transform="rotate(-0 505.296 425.070087)">W+0.03</text>
+   </g>
+   <g id="sensitivity-2-1-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="433.166192" transform="rotate(-0 505.296 433.166192)">M-0.14</text>
+   </g>
+   <g id="sensitivity-2-1-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="425.070087" transform="rotate(-0 582.384 425.070087)">W-0.04</text>
+   </g>
+   <g id="sensitivity-2-1-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="433.166192" transform="rotate(-0 582.384 433.166192)">M+0.04</text>
+   </g>
+   <g id="sensitivity-2-2-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="448.201817" transform="rotate(-0 196.944 448.201817)">W+0.05</text>
+   </g>
+   <g id="sensitivity-2-2-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="456.297923" transform="rotate(-0 196.944 456.297923)">M-0.22</text>
+   </g>
+   <g id="sensitivity-2-2-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="448.201817" transform="rotate(-0 274.032 448.201817)">W+0.07</text>
+   </g>
+   <g id="sensitivity-2-2-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="456.297923" transform="rotate(-0 274.032 456.297923)">M-0.17</text>
+   </g>
+   <g id="sensitivity-2-2-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="448.201817" transform="rotate(-0 351.12 448.201817)">W+0.06</text>
+   </g>
+   <g id="sensitivity-2-2-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="456.297923" transform="rotate(-0 351.12 456.297923)">M+0.04</text>
+   </g>
+   <g id="sensitivity-2-2-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="448.201817" transform="rotate(-0 428.208 448.201817)">W-0.45</text>
+   </g>
+   <g id="sensitivity-2-2-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="456.297923" transform="rotate(-0 428.208 456.297923)">M+0.44</text>
+   </g>
+   <g id="sensitivity-2-2-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="448.201817" transform="rotate(-0 505.296 448.201817)">W+0.03</text>
+   </g>
+   <g id="sensitivity-2-2-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="456.297923" transform="rotate(-0 505.296 456.297923)">M-0.17</text>
+   </g>
+   <g id="sensitivity-2-2-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="448.201817" transform="rotate(-0 582.384 448.201817)">W-0.03</text>
+   </g>
+   <g id="sensitivity-2-2-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="456.297923" transform="rotate(-0 582.384 456.297923)">M+0.03</text>
+   </g>
+   <g id="sensitivity-2-3-0-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="471.333548" transform="rotate(-0 196.944 471.333548)">W+0.04</text>
+   </g>
+   <g id="sensitivity-2-3-0-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="196.944" y="479.429654" transform="rotate(-0 196.944 479.429654)">M-0.19</text>
+   </g>
+   <g id="sensitivity-2-3-1-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="471.333548" transform="rotate(-0 274.032 471.333548)">W+0.07</text>
+   </g>
+   <g id="sensitivity-2-3-1-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="274.032" y="479.429654" transform="rotate(-0 274.032 479.429654)">M-0.13</text>
+   </g>
+   <g id="sensitivity-2-3-2-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="471.333548" transform="rotate(-0 351.12 471.333548)">W+0.07</text>
+   </g>
+   <g id="sensitivity-2-3-2-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="351.12" y="479.429654" transform="rotate(-0 351.12 479.429654)">M+0.03</text>
+   </g>
+   <g id="sensitivity-2-3-3-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="471.333548" transform="rotate(-0 428.208 471.333548)">W-0.50</text>
+   </g>
+   <g id="sensitivity-2-3-3-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="428.208" y="479.429654" transform="rotate(-0 428.208 479.429654)">M+0.51</text>
+   </g>
+   <g id="sensitivity-2-3-4-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="471.333548" transform="rotate(-0 505.296 471.333548)">W+0.04</text>
+   </g>
+   <g id="sensitivity-2-3-4-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="505.296" y="479.429654" transform="rotate(-0 505.296 479.429654)">M-0.15</text>
+   </g>
+   <g id="sensitivity-2-3-5-within">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="471.333548" transform="rotate(-0 582.384 471.333548)">W-0.04</text>
+   </g>
+   <g id="sensitivity-2-3-5-mix">
+    <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #162e3b" x="582.384" y="479.429654" transform="rotate(-0 582.384 479.429654)">M+0.04</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203d4b" x="158.4" y="385.529077" transform="rotate(-0 158.4 385.529077)">Pooled</text>
+   </g>
+  </g>
+  <g id="text_34">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203d4b" x="63.36" y="23.328" transform="rotate(-0 63.36 23.328)">Within and mix depend on grain and cohort</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203d4b" x="63.36" y="52.488" transform="rotate(-0 63.36 52.488)">Every fixed case. W: within; M: mix. Units: MMBtu/MWh; labels rounded to two decimals.</text>
+  </g>
+  <g id="text_36">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203d4b" x="63.36" y="524.88" transform="rotate(-0 63.36 524.88)">Colour shows within on a fixed −1 to +1 scale: pale red (negative), white (zero), pale blue (positive).</text>
+  </g>
+  <g id="text_37">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #203d4b" x="63.36" y="548.208" transform="rotate(-0 63.36 548.208)">Balanced eligibility uses all seven years. Different matching/aggregation does not identify causality.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p641e66ef15">
+   <rect x="158.4" y="99.144" width="462.528" height="92.526923"/>
+  </clipPath>
+  <clipPath id="p9e585e9e5b">
+   <rect x="158.4" y="245.336538" width="462.528" height="92.526923"/>
+  </clipPath>
+  <clipPath id="p062ad70bbc">
+   <rect x="158.4" y="391.529077" width="462.528" height="92.526923"/>
+  </clipPath>
+ </defs>
+</svg>
